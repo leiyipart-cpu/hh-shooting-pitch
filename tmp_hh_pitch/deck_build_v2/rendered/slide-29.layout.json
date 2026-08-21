@@ -1,0 +1,904 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/f1kjjg",
+    "id": "f1kjjg",
+    "slide": 29,
+    "layoutId": "dc238534-2ce1-4d1b-997f-2d8aa4361ebe",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "163d7c4c-e191-4d51-8bb2-01f9a7d38869",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F2EFE8",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Helvetica Neue",
+      "PingFang SC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "dc238534-2ce1-4d1b-997f-2d8aa4361ebe",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "163d7c4c-e191-4d51-8bb2-01f9a7d38869",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "163d7c4c-e191-4d51-8bb2-01f9a7d38869",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bid87ax8",
+      "id": "1",
+      "bbox": [
+        64,
+        48,
+        560,
+        22
+      ],
+      "geometry": "rect",
+      "text": "STILLS SYSTEM",
+      "textPreview": "STILLS SYSTEM",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Helvetica Neue",
+        "color": "#E3272E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "STILLS SYSTEM"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "STILLS SYSTEM",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Helvetica Neue",
+            "color": "#E3272E",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "STILLS SYSTEM",
+              "fontSize": 14,
+              "typeface": "Helvetica Neue",
+              "color": "#E3272E",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w3m9gfyd",
+      "id": "2",
+      "bbox": [
+        64,
+        82,
+        1120,
+        72
+      ],
+      "geometry": "rect",
+      "text": "8套 Look 不做八次换装，而做一本完整场景志",
+      "textPreview": "8套 Look 不做八次换装，而做一本完整场景志",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 48,
+        "typeface": "PingFang SC",
+        "color": "#071925",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "8套 Look 不做八次换装，而做一本完整场景志"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "8套 Look 不做八次换装，而做一本完整场景志",
+          "lineSpacingPercent": 95000,
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "PingFang SC",
+            "color": "#071925",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.95
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "8套 Look 不做八次换装，而做一本完整场景志",
+              "fontSize": 48,
+              "typeface": "PingFang SC",
+              "color": "#071925",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.95
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x4va9kfy",
+      "id": "3",
+      "name": "footer-rule-29",
+      "bbox": [
+        64,
+        688,
+        120,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E3272E",
+      "lineWidth": 3
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y5oripgj",
+      "id": "4",
+      "bbox": [
+        204,
+        678,
+        420,
+        22
+      ],
+      "geometry": "rect",
+      "text": "HELLY HANSEN 150 · THE LOGBOOK",
+      "textPreview": "HELLY HANSEN 150 · THE LOGBOOK",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 12,
+        "typeface": "Helvetica Neue",
+        "color": "#829099",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HELLY HANSEN 150 · THE LOGBOOK"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HELLY HANSEN 150 · THE LOGBOOK",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Helvetica Neue",
+            "color": "#829099",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HELLY HANSEN 150 · THE LOGBOOK",
+              "fontSize": 12,
+              "typeface": "Helvetica Neue",
+              "color": "#829099",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j6xsbux4",
+      "id": "5",
+      "bbox": [
+        1160,
+        678,
+        56,
+        22
+      ],
+      "geometry": "rect",
+      "text": "29",
+      "textPreview": "29",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 12,
+        "typeface": "Helvetica Neue",
+        "color": "#829099",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "29"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "29",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Helvetica Neue",
+            "color": "#829099",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "29",
+              "fontSize": 12,
+              "typeface": "Helvetica Neue",
+              "color": "#829099",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/54bmp4ry",
+      "id": "6",
+      "bbox": [
+        688,
+        218,
+        490,
+        300
+      ],
+      "geometry": "roundRect",
+      "alt": "Source product matrix from client brief",
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0.02,
+        "top": 0.05,
+        "right": 0.02,
+        "bottom": 0.04
+      },
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 6000"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "2ad2b60c-7cde-4d22-b5ab-a08a04149c1d",
+        "contentType": "image/jpeg",
+        "byteLength": 193717
+      }
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l8fadkfa",
+      "id": "7",
+      "bbox": [
+        64,
+        238,
+        380,
+        24
+      ],
+      "geometry": "rect",
+      "text": "SEA · 3 LOOKS",
+      "textPreview": "SEA · 3 LOOKS",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Helvetica Neue",
+        "color": "#E3272E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SEA · 3 LOOKS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SEA · 3 LOOKS",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Helvetica Neue",
+            "color": "#E3272E",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SEA · 3 LOOKS",
+              "fontSize": 14,
+              "typeface": "Helvetica Neue",
+              "color": "#E3272E",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e9kr6lgf",
+      "id": "8",
+      "bbox": [
+        64,
+        278,
+        430,
+        122
+      ],
+      "geometry": "rect",
+      "text": "01  Sailing Heritage\n04  H2ALIVE\n07  HH Stotte",
+      "textPreview": "01  Sailing Heritage | 04  H2ALIVE | 07  HH Stotte",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 27,
+        "typeface": "PingFang SC",
+        "color": "#071925",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01  Sailing Heritage"
+          },
+          {
+            "index": 2,
+            "text": "04  H2ALIVE"
+          },
+          {
+            "index": 3,
+            "text": "07  HH Stotte"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01  Sailing Heritage",
+          "lineSpacingPercent": 135000,
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "PingFang SC",
+            "color": "#071925",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.35
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "01  Sailing Heritage",
+              "fontSize": 27,
+              "typeface": "PingFang SC",
+              "color": "#071925",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.35
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "04  H2ALIVE",
+          "lineSpacingPercent": 135000,
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "PingFang SC",
+            "color": "#071925",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.35
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "04  H2ALIVE",
+              "fontSize": 27,
+              "typeface": "PingFang SC",
+              "color": "#071925",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.35
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "07  HH Stotte",
+          "lineSpacingPercent": 135000,
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "PingFang SC",
+            "color": "#071925",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.35
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "07  HH Stotte",
+              "fontSize": 27,
+              "typeface": "PingFang SC",
+              "color": "#071925",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.35
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zat8zqx0",
+      "id": "9",
+      "bbox": [
+        64,
+        446,
+        380,
+        24
+      ],
+      "geometry": "rect",
+      "text": "TRAIL · 5 LOOKS",
+      "textPreview": "TRAIL · 5 LOOKS",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Helvetica Neue",
+        "color": "#E3272E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "TRAIL · 5 LOOKS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "TRAIL · 5 LOOKS",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Helvetica Neue",
+            "color": "#E3272E",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "TRAIL · 5 LOOKS",
+              "fontSize": 14,
+              "typeface": "Helvetica Neue",
+              "color": "#E3272E",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7et8r6ps",
+      "id": "10",
+      "bbox": [
+        64,
+        486,
+        430,
+        110
+      ],
+      "geometry": "rect",
+      "text": "02 / 03  徒步\n05 / 08  越野跑\n06  溪流",
+      "textPreview": "02 / 03  徒步 | 05 / 08  越野跑 | 06  溪流",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "PingFang SC",
+        "color": "#071925",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02 / 03  徒步"
+          },
+          {
+            "index": 2,
+            "text": "05 / 08  越野跑"
+          },
+          {
+            "index": 3,
+            "text": "06  溪流"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02 / 03  徒步",
+          "lineSpacingPercent": 130000,
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "PingFang SC",
+            "color": "#071925",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.3
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02 / 03  徒步",
+              "fontSize": 25,
+              "typeface": "PingFang SC",
+              "color": "#071925",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.3
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "05 / 08  越野跑",
+          "lineSpacingPercent": 130000,
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "PingFang SC",
+            "color": "#071925",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.3
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "05 / 08  越野跑",
+              "fontSize": 25,
+              "typeface": "PingFang SC",
+              "color": "#071925",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.3
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "06  溪流",
+          "lineSpacingPercent": 130000,
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "PingFang SC",
+            "color": "#071925",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.3
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "06  溪流",
+              "fontSize": 25,
+              "typeface": "PingFang SC",
+              "color": "#071925",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.3
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mdk7y187",
+      "id": "11",
+      "bbox": [
+        688,
+        548,
+        490,
+        66
+      ],
+      "geometry": "rect",
+      "text": "同一视觉语法：真实环境、克制机能、安静自信；\n不同产品证据：每套 Look 只解决一个首要沟通点。",
+      "textPreview": "同一视觉语法：真实环境、克制机能、安静自信； | 不同产品证据：每套 Look 只解决一个首要沟通点。",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "PingFang SC",
+        "color": "#31566A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "同一视觉语法：真实环境、克制机能、安静自信；"
+          },
+          {
+            "index": 2,
+            "text": "不同产品证据：每套 Look 只解决一个首要沟通点。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "同一视觉语法：真实环境、克制机能、安静自信；",
+          "lineSpacingPercent": 120000,
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "PingFang SC",
+            "color": "#31566A",
+            "alignment": "left",
+            "lineSpacing": 1.2
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "同一视觉语法：真实环境、克制机能、安静自信；",
+              "fontSize": 19,
+              "typeface": "PingFang SC",
+              "color": "#31566A",
+              "alignment": "left",
+              "lineSpacing": 1.2
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "不同产品证据：每套 Look 只解决一个首要沟通点。",
+          "lineSpacingPercent": 120000,
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "PingFang SC",
+            "color": "#31566A",
+            "alignment": "left",
+            "lineSpacing": 1.2
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "不同产品证据：每套 Look 只解决一个首要沟通点。",
+              "fontSize": 19,
+              "typeface": "PingFang SC",
+              "color": "#31566A",
+              "alignment": "left",
+              "lineSpacing": 1.2
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

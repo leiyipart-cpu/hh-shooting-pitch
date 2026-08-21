@@ -1,0 +1,1074 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/br3woe",
+    "id": "br3woe",
+    "slide": 34,
+    "layoutId": "dc238534-2ce1-4d1b-997f-2d8aa4361ebe",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "163d7c4c-e191-4d51-8bb2-01f9a7d38869",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F2EFE8",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Helvetica Neue",
+      "PingFang SC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "dc238534-2ce1-4d1b-997f-2d8aa4361ebe",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "163d7c4c-e191-4d51-8bb2-01f9a7d38869",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "163d7c4c-e191-4d51-8bb2-01f9a7d38869",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sjm1ozil",
+      "id": "1",
+      "bbox": [
+        64,
+        48,
+        560,
+        22
+      ],
+      "geometry": "rect",
+      "text": "TWO TALENT DAYS",
+      "textPreview": "TWO TALENT DAYS",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Helvetica Neue",
+        "color": "#E3272E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "TWO TALENT DAYS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "TWO TALENT DAYS",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Helvetica Neue",
+            "color": "#E3272E",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "TWO TALENT DAYS",
+              "fontSize": 14,
+              "typeface": "Helvetica Neue",
+              "color": "#E3272E",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ridkvu10",
+      "id": "2",
+      "bbox": [
+        64,
+        82,
+        1120,
+        72
+      ],
+      "geometry": "rect",
+      "text": "用双机组并行，把 16 小时留给真正不可替代的镜头",
+      "textPreview": "用双机组并行，把 16 小时留给真正不可替代的镜头",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 48,
+        "typeface": "PingFang SC",
+        "color": "#071925",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "用双机组并行，把 16 小时留给真正不可替代的镜头"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "用双机组并行，把 16 小时留给真正不可替代的镜头",
+          "lineSpacingPercent": 95000,
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "PingFang SC",
+            "color": "#071925",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.95
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "用双机组并行，把 16 小时留给真正不可替代的镜头",
+              "fontSize": 48,
+              "typeface": "PingFang SC",
+              "color": "#071925",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.95
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qh4jmpkf",
+      "id": "3",
+      "name": "footer-rule-34",
+      "bbox": [
+        64,
+        688,
+        120,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E3272E",
+      "lineWidth": 3
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5gvitkju",
+      "id": "4",
+      "bbox": [
+        204,
+        678,
+        420,
+        22
+      ],
+      "geometry": "rect",
+      "text": "HELLY HANSEN 150 · THE LOGBOOK",
+      "textPreview": "HELLY HANSEN 150 · THE LOGBOOK",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 12,
+        "typeface": "Helvetica Neue",
+        "color": "#829099",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HELLY HANSEN 150 · THE LOGBOOK"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HELLY HANSEN 150 · THE LOGBOOK",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Helvetica Neue",
+            "color": "#829099",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HELLY HANSEN 150 · THE LOGBOOK",
+              "fontSize": 12,
+              "typeface": "Helvetica Neue",
+              "color": "#829099",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4fm1kf29",
+      "id": "5",
+      "bbox": [
+        1160,
+        678,
+        56,
+        22
+      ],
+      "geometry": "rect",
+      "text": "34",
+      "textPreview": "34",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 12,
+        "typeface": "Helvetica Neue",
+        "color": "#829099",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "34"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "34",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Helvetica Neue",
+            "color": "#829099",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "34",
+              "fontSize": 12,
+              "typeface": "Helvetica Neue",
+              "color": "#829099",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3et0ra1o",
+      "id": "6",
+      "bbox": [
+        64,
+        236,
+        160,
+        28
+      ],
+      "geometry": "rect",
+      "text": "DAY 01",
+      "textPreview": "DAY 01",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Helvetica Neue",
+        "color": "#E3272E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DAY 01"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DAY 01",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Helvetica Neue",
+            "color": "#E3272E",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DAY 01",
+              "fontSize": 15,
+              "typeface": "Helvetica Neue",
+              "color": "#E3272E",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/idkji5kj",
+      "id": "7",
+      "bbox": [
+        64,
+        282,
+        470,
+        42
+      ],
+      "geometry": "rect",
+      "text": "GARDA · SAILING",
+      "textPreview": "GARDA · SAILING",
+      "resolvedFontSize": 29,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 29,
+        "typeface": "Helvetica Neue",
+        "color": "#071925",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "GARDA · SAILING"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "GARDA · SAILING",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 29,
+            "typeface": "Helvetica Neue",
+            "color": "#071925",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "GARDA · SAILING",
+              "fontSize": 29,
+              "typeface": "Helvetica Neue",
+              "color": "#071925",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cf25ojy",
+      "id": "8",
+      "bbox": [
+        64,
+        344,
+        500,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#31566A",
+      "lineWidth": 4
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ob61wjit",
+      "id": "9",
+      "bbox": [
+        64,
+        374,
+        490,
+        186
+      ],
+      "geometry": "rect",
+      "text": "A组：Film 01 主叙事 + Look 01\nB组：船体 / 产品 / 空镜 / 替身走位\n穿插：Look 04 / 07 核心艺人镜头\n收口：蓝调归港 + 夜光纹样",
+      "textPreview": "A组：Film 01 主叙事 + Look 01 | B组：船体 / 产品 / 空镜 / 替身走位 | 穿插：Look 04 / 07 核心艺人镜头 | 收口：蓝调归港 + 夜光纹样",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "PingFang SC",
+        "color": "#31566A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "A组：Film 01 主叙事 + Look 01"
+          },
+          {
+            "index": 2,
+            "text": "B组：船体 / 产品 / 空镜 / 替身走位"
+          },
+          {
+            "index": 3,
+            "text": "穿插：Look 04 / 07 核心艺人镜头"
+          },
+          {
+            "index": 4,
+            "text": "收口：蓝调归港 + 夜光纹样"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "A组：Film 01 主叙事 + Look 01",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang SC",
+            "color": "#31566A",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "A组：Film 01 主叙事 + Look 01",
+              "fontSize": 20,
+              "typeface": "PingFang SC",
+              "color": "#31566A",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "B组：船体 / 产品 / 空镜 / 替身走位",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang SC",
+            "color": "#31566A",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "B组：船体 / 产品 / 空镜 / 替身走位",
+              "fontSize": 20,
+              "typeface": "PingFang SC",
+              "color": "#31566A",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "穿插：Look 04 / 07 核心艺人镜头",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang SC",
+            "color": "#31566A",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "穿插：Look 04 / 07 核心艺人镜头",
+              "fontSize": 20,
+              "typeface": "PingFang SC",
+              "color": "#31566A",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "收口：蓝调归港 + 夜光纹样",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang SC",
+            "color": "#31566A",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "收口：蓝调归港 + 夜光纹样",
+              "fontSize": 20,
+              "typeface": "PingFang SC",
+              "color": "#31566A",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/atwfqx4f",
+      "id": "10",
+      "bbox": [
+        640,
+        236,
+        160,
+        28
+      ],
+      "geometry": "rect",
+      "text": "DAY 02",
+      "textPreview": "DAY 02",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Helvetica Neue",
+        "color": "#E3272E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DAY 02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DAY 02",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Helvetica Neue",
+            "color": "#E3272E",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DAY 02",
+              "fontSize": 15,
+              "typeface": "Helvetica Neue",
+              "color": "#E3272E",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vu5gz250",
+      "id": "11",
+      "bbox": [
+        640,
+        282,
+        470,
+        42
+      ],
+      "geometry": "rect",
+      "text": "DOLOMITES · OUTDOOR",
+      "textPreview": "DOLOMITES · OUTDOOR",
+      "resolvedFontSize": 29,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 29,
+        "typeface": "Helvetica Neue",
+        "color": "#071925",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DOLOMITES · OUTDOOR"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DOLOMITES · OUTDOOR",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 29,
+            "typeface": "Helvetica Neue",
+            "color": "#071925",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DOLOMITES · OUTDOOR",
+              "fontSize": 29,
+              "typeface": "Helvetica Neue",
+              "color": "#071925",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wvexs7ml",
+      "id": "12",
+      "bbox": [
+        640,
+        344,
+        500,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E3272E",
+      "lineWidth": 4
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xw7y1cn6",
+      "id": "13",
+      "bbox": [
+        640,
+        374,
+        490,
+        186
+      ],
+      "geometry": "rect",
+      "text": "A组：Film 02 艺人可控跑段 + Hero Portrait\nB组：替模高难度动作 + 产品微距\n穿插：Look 02 / 03 / 05 / 06 / 08\n收口：低光跑动 + 反光细节",
+      "textPreview": "A组：Film 02 艺人可控跑段 + Hero Portrait | B组：替模高难度动作 + 产品微距 | 穿插：Look 02 / 03 / 05 / 06 / 08 | 收口：低光跑动 + 反光细节",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "PingFang SC",
+        "color": "#31566A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "A组：Film 02 艺人可控跑段 + Hero Portrait"
+          },
+          {
+            "index": 2,
+            "text": "B组：替模高难度动作 + 产品微距"
+          },
+          {
+            "index": 3,
+            "text": "穿插：Look 02 / 03 / 05 / 06 / 08"
+          },
+          {
+            "index": 4,
+            "text": "收口：低光跑动 + 反光细节"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "A组：Film 02 艺人可控跑段 + Hero Portrait",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang SC",
+            "color": "#31566A",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "A组：Film 02 艺人可控跑段 + Hero Portrait",
+              "fontSize": 20,
+              "typeface": "PingFang SC",
+              "color": "#31566A",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "B组：替模高难度动作 + 产品微距",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang SC",
+            "color": "#31566A",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "B组：替模高难度动作 + 产品微距",
+              "fontSize": 20,
+              "typeface": "PingFang SC",
+              "color": "#31566A",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "穿插：Look 02 / 03 / 05 / 06 / 08",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang SC",
+            "color": "#31566A",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "穿插：Look 02 / 03 / 05 / 06 / 08",
+              "fontSize": 20,
+              "typeface": "PingFang SC",
+              "color": "#31566A",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "收口：低光跑动 + 反光细节",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang SC",
+            "color": "#31566A",
+            "alignment": "left",
+            "lineSpacing": 1.42
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "收口：低光跑动 + 反光细节",
+              "fontSize": 20,
+              "typeface": "PingFang SC",
+              "color": "#31566A",
+              "alignment": "left",
+              "lineSpacing": 1.42
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m5wfmx4j",
+      "id": "14",
+      "bbox": [
+        64,
+        584,
+        1076,
+        44
+      ],
+      "geometry": "rect",
+      "fillColor": "#071925",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n65gv25o",
+      "id": "15",
+      "bbox": [
+        84,
+        594,
+        1036,
+        24
+      ],
+      "geometry": "rect",
+      "text": "原则：艺人只做他不可替代的识别与情绪；替模、产品、空镜和技术动作全部提前预演。",
+      "textPreview": "原则：艺人只做他不可替代的识别与情绪；替模、产品、空镜和技术动作全部提前预演。",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "PingFang SC",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "原则：艺人只做他不可替代的识别与情绪；替模、产品、空镜和技术动作全部提前预演。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "原则：艺人只做他不可替代的识别与情绪；替模、产品、空镜和技术动作全部提前预演。",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "PingFang SC",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "原则：艺人只做他不可替代的识别与情绪；替模、产品、空镜和技术动作全部提前预演。",
+              "fontSize": 18,
+              "typeface": "PingFang SC",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

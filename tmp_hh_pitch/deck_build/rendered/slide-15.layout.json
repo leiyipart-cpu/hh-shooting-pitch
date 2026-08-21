@@ -1,0 +1,465 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/n3l2qs",
+    "id": "n3l2qs",
+    "slide": 15,
+    "layoutId": "b8185da9-d86d-4df0-a7c1-60dc6b17bc0d",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "47b19d9c-07de-45f4-8404-6da37421c1ca",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Helvetica Neue",
+      "PingFang SC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "b8185da9-d86d-4df0-a7c1-60dc6b17bc0d",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "47b19d9c-07de-45f4-8404-6da37421c1ca",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "47b19d9c-07de-45f4-8404-6da37421c1ca",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/0rqx032h",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "alt": "Concept visual: crew returning at blue hour with subtle nightglow textile",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "700719f1-84c0-4f4e-8c29-e5865a85fbb6",
+        "contentType": "image/png",
+        "byteLength": 1881528
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yd4r6dcb",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        560,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(7, 25, 37, 0.82)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jexszitw",
+      "id": "3",
+      "bbox": [
+        64,
+        66,
+        240,
+        24
+      ],
+      "geometry": "rect",
+      "text": "SIGNATURE FRAME",
+      "textPreview": "SIGNATURE FRAME",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Helvetica Neue",
+        "color": "#E3272E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SIGNATURE FRAME"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SIGNATURE FRAME",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Helvetica Neue",
+            "color": "#E3272E",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SIGNATURE FRAME",
+              "fontSize": 14,
+              "typeface": "Helvetica Neue",
+              "color": "#E3272E",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sj69cnud",
+      "id": "4",
+      "bbox": [
+        64,
+        132,
+        450,
+        132
+      ],
+      "geometry": "rect",
+      "text": "白天吸收湖面上的光，\n入夜把光还给 Crew。",
+      "textPreview": "白天吸收湖面上的光， | 入夜把光还给 Crew。",
+      "resolvedFontSize": 44,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 44,
+        "typeface": "PingFang SC",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "白天吸收湖面上的光，"
+          },
+          {
+            "index": 2,
+            "text": "入夜把光还给 Crew。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "白天吸收湖面上的光，",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 44,
+            "typeface": "PingFang SC",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "白天吸收湖面上的光，",
+              "fontSize": 44,
+              "typeface": "PingFang SC",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "入夜把光还给 Crew。",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 44,
+            "typeface": "PingFang SC",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "入夜把光还给 Crew。",
+              "fontSize": 44,
+              "typeface": "PingFang SC",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tkfa5sby",
+      "id": "5",
+      "bbox": [
+        64,
+        310,
+        250,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E3272E",
+      "lineWidth": 4
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6horaxc7",
+      "id": "6",
+      "bbox": [
+        64,
+        342,
+        430,
+        126
+      ],
+      "geometry": "rect",
+      "text": "不是科技炫技，而是一次从功能到情感的自然转译。\n这将成为航海篇最可识别、最可获奖、也最能延展 KV 的画面。",
+      "textPreview": "不是科技炫技，而是一次从功能到情感的自然转译。 | 这将成为航海篇最可识别、最可获奖、也最能延展 KV 的画面。",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "PingFang SC",
+        "color": "#D2DDE1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "不是科技炫技，而是一次从功能到情感的自然"
+          },
+          {
+            "index": 2,
+            "text": "转译。"
+          },
+          {
+            "index": 3,
+            "text": "这将成为航海篇最可识别、最可获奖、也最能"
+          },
+          {
+            "index": 4,
+            "text": "延展 KV 的画面。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "不是科技炫技，而是一次从功能到情感的自然转译。",
+          "lineSpacingPercent": 126000,
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "PingFang SC",
+            "color": "#D2DDE1",
+            "alignment": "left",
+            "lineSpacing": 1.26
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "不是科技炫技，而是一次从功能到情感的自然转译。",
+              "fontSize": 21,
+              "typeface": "PingFang SC",
+              "color": "#D2DDE1",
+              "alignment": "left",
+              "lineSpacing": 1.26
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "这将成为航海篇最可识别、最可获奖、也最能延展 KV 的画面。",
+          "lineSpacingPercent": 126000,
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "PingFang SC",
+            "color": "#D2DDE1",
+            "alignment": "left",
+            "lineSpacing": 1.26
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "这将成为航海篇最可识别、最可获奖、也最能延展 KV 的画面。",
+              "fontSize": 21,
+              "typeface": "PingFang SC",
+              "color": "#D2DDE1",
+              "alignment": "left",
+              "lineSpacing": 1.26
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7ixs3its",
+      "id": "7",
+      "bbox": [
+        64,
+        622,
+        330,
+        22
+      ],
+      "geometry": "rect",
+      "text": "视觉方向示意 · 非最终成片",
+      "textPreview": "视觉方向示意 · 非最终成片",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13,
+        "typeface": "PingFang SC",
+        "color": "#91A6AF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "视觉方向示意 · 非最终成片"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "视觉方向示意 · 非最终成片",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "PingFang SC",
+            "color": "#91A6AF",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "视觉方向示意 · 非最终成片",
+              "fontSize": 13,
+              "typeface": "PingFang SC",
+              "color": "#91A6AF",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

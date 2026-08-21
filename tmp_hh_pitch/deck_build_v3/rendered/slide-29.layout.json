@@ -1,0 +1,1093 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/4i0hah",
+    "id": "4i0hah",
+    "slide": 29,
+    "layoutId": "b36d9d8d-714e-405c-8d1a-39d990d234b7",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "aa6dae71-e8f8-422d-b52d-eec4dda25118",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#E9E9E3",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Avenir Next",
+      "Impact",
+      "PingFang SC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "b36d9d8d-714e-405c-8d1a-39d990d234b7",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "aa6dae71-e8f8-422d-b52d-eec4dda25118",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "aa6dae71-e8f8-422d-b52d-eec4dda25118",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/crmxo7id",
+      "id": "1",
+      "bbox": [
+        48,
+        46,
+        920,
+        48
+      ],
+      "geometry": "rect",
+      "text": "ONE UNIVERSE · TWO CHAPTERS",
+      "textPreview": "ONE UNIVERSE · TWO CHAPTERS",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 42,
+        "typeface": "Impact",
+        "color": "#34351F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ONE UNIVERSE · TWO CHAPTERS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ONE UNIVERSE · TWO CHAPTERS",
+          "lineSpacingPercent": 90000,
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Impact",
+            "color": "#34351F",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.9
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ONE UNIVERSE · TWO CHAPTERS",
+              "fontSize": 42,
+              "typeface": "Impact",
+              "color": "#34351F",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.9
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rqdwf21s",
+      "id": "2",
+      "bbox": [
+        48,
+        108,
+        98,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#FF1515",
+      "lineWidth": 5
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qp4fmh07",
+      "id": "3",
+      "bbox": [
+        48,
+        128,
+        1040,
+        62
+      ],
+      "geometry": "rect",
+      "text": "两支TVC，是“自在天地间”的两种行动方式",
+      "textPreview": "两支TVC，是“自在天地间”的两种行动方式",
+      "resolvedFontSize": 40,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 40,
+        "typeface": "PingFang SC",
+        "color": "#34351F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "两支TVC，是“自在天地间”的两种行动方式"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "两支TVC，是“自在天地间”的两种行动方式",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 40,
+            "typeface": "PingFang SC",
+            "color": "#34351F",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "两支TVC，是“自在天地间”的两种行动方式",
+              "fontSize": 40,
+              "typeface": "PingFang SC",
+              "color": "#34351F",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1gfelwzu",
+      "id": "4",
+      "bbox": [
+        1030,
+        25,
+        190,
+        30
+      ],
+      "geometry": "rect",
+      "text": "HH  ×  VCHINA",
+      "textPreview": "HH  ×  VCHINA",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Impact",
+        "color": "#171914",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HH  ×  VCHINA"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HH  ×  VCHINA",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Impact",
+            "color": "#171914",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HH  ×  VCHINA",
+              "fontSize": 20,
+              "typeface": "Impact",
+              "color": "#171914",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0v6xsri9",
+      "id": "5",
+      "bbox": [
+        48,
+        676,
+        360,
+        18
+      ],
+      "geometry": "rect",
+      "text": "HELLY HANSEN 27SS",
+      "textPreview": "HELLY HANSEN 27SS",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Avenir Next",
+        "color": "#7D7F75",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HELLY HANSEN 27SS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HELLY HANSEN 27SS",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Avenir Next",
+            "color": "#7D7F75",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HELLY HANSEN 27SS",
+              "fontSize": 11,
+              "typeface": "Avenir Next",
+              "color": "#7D7F75",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zudwjm1o",
+      "id": "6",
+      "bbox": [
+        1168,
+        676,
+        52,
+        18
+      ],
+      "geometry": "rect",
+      "text": "29",
+      "textPreview": "29",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Avenir Next",
+        "color": "#7D7F75",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "29"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "29",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Avenir Next",
+            "color": "#7D7F75",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "29",
+              "fontSize": 11,
+              "typeface": "Avenir Next",
+              "color": "#7D7F75",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/et4fqh03",
+      "id": "7",
+      "bbox": [
+        48,
+        272,
+        500,
+        64
+      ],
+      "geometry": "rect",
+      "text": "与海同舟",
+      "textPreview": "与海同舟",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 48,
+        "typeface": "PingFang SC",
+        "color": "#34351F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "与海同舟"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "与海同舟",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "PingFang SC",
+            "color": "#34351F",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "与海同舟",
+              "fontSize": 48,
+              "typeface": "PingFang SC",
+              "color": "#34351F",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9kfepwzq",
+      "id": "8",
+      "bbox": [
+        48,
+        342,
+        420,
+        42
+      ],
+      "geometry": "rect",
+      "text": "SAIL AS ONE",
+      "textPreview": "SAIL AS ONE",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 34,
+        "typeface": "Impact",
+        "color": "#FF1515",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SAIL AS ONE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SAIL AS ONE",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Impact",
+            "color": "#FF1515",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SAIL AS ONE",
+              "fontSize": 34,
+              "typeface": "Impact",
+              "color": "#FF1515",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oj6xwril",
+      "id": "9",
+      "bbox": [
+        48,
+        418,
+        500,
+        48
+      ],
+      "geometry": "rect",
+      "text": "共同判断 · 彼此信任 · 向更远",
+      "textPreview": "共同判断 · 彼此信任 · 向更远",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 23,
+        "typeface": "PingFang SC",
+        "color": "#58572F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "共同判断 · 彼此信任 · 向更远"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "共同判断 · 彼此信任 · 向更远",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "PingFang SC",
+            "color": "#58572F",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "共同判断 · 彼此信任 · 向更远",
+              "fontSize": 23,
+              "typeface": "PingFang SC",
+              "color": "#58572F",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i9w7yp0z",
+      "id": "10",
+      "bbox": [
+        48,
+        502,
+        500,
+        54
+      ],
+      "geometry": "rect",
+      "text": "自在源于共同承担",
+      "textPreview": "自在源于共同承担",
+      "resolvedFontSize": 29,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 29,
+        "typeface": "PingFang SC",
+        "color": "#34351F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "自在源于共同承担"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "自在源于共同承担",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 29,
+            "typeface": "PingFang SC",
+            "color": "#34351F",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "自在源于共同承担",
+              "fontSize": 29,
+              "typeface": "PingFang SC",
+              "color": "#34351F",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ja5o7u1k",
+      "id": "11",
+      "bbox": [
+        620,
+        272,
+        0,
+        284
+      ],
+      "geometry": "line",
+      "lineColor": "#FF1515",
+      "lineWidth": 3
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4bep0fi5",
+      "id": "12",
+      "bbox": [
+        706,
+        272,
+        500,
+        64
+      ],
+      "geometry": "rect",
+      "text": "与野同步",
+      "textPreview": "与野同步",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 48,
+        "typeface": "PingFang SC",
+        "color": "#34351F",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "与野同步"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "与野同步",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "PingFang SC",
+            "color": "#34351F",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "与野同步",
+              "fontSize": 48,
+              "typeface": "PingFang SC",
+              "color": "#34351F",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5cnq9kjq",
+      "id": "13",
+      "bbox": [
+        706,
+        342,
+        500,
+        42
+      ],
+      "geometry": "rect",
+      "text": "IN STEP WITH THE WILD",
+      "textPreview": "IN STEP WITH THE WILD",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 34,
+        "typeface": "Impact",
+        "color": "#FF1515",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "IN STEP WITH THE WILD"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "IN STEP WITH THE WILD",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Impact",
+            "color": "#FF1515",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "IN STEP WITH THE WILD",
+              "fontSize": 34,
+              "typeface": "Impact",
+              "color": "#FF1515",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6dw72p0b",
+      "id": "14",
+      "bbox": [
+        706,
+        418,
+        500,
+        48
+      ],
+      "geometry": "rect",
+      "text": "感知地形 · 回应变化 · 赴新域",
+      "textPreview": "感知地形 · 回应变化 · 赴新域",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 23,
+        "typeface": "PingFang SC",
+        "color": "#58572F",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "感知地形 · 回应变化 · 赴新域"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "感知地形 · 回应变化 · 赴新域",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "PingFang SC",
+            "color": "#58572F",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "感知地形 · 回应变化 · 赴新域",
+              "fontSize": 23,
+              "typeface": "PingFang SC",
+              "color": "#58572F",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rep8bu1w",
+      "id": "15",
+      "bbox": [
+        706,
+        502,
+        500,
+        54
+      ],
+      "geometry": "rect",
+      "text": "自在源于彼此同步",
+      "textPreview": "自在源于彼此同步",
+      "resolvedFontSize": 29,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 29,
+        "typeface": "PingFang SC",
+        "color": "#34351F",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "自在源于彼此同步"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "自在源于彼此同步",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 29,
+            "typeface": "PingFang SC",
+            "color": "#34351F",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "自在源于彼此同步",
+              "fontSize": 29,
+              "typeface": "PingFang SC",
+              "color": "#34351F",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sfyp4zih",
+      "id": "16",
+      "bbox": [
+        110,
+        612,
+        1060,
+        36
+      ],
+      "geometry": "rect",
+      "text": "无论向远，还是赴新域，真正的自由都发生在人与自然建立关系之后。",
+      "textPreview": "无论向远，还是赴新域，真正的自由都发生在人与自然建立关系之后。",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "PingFang SC",
+        "color": "#34351F",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "无论向远，还是赴新域，真正的自由都发生在人与自然建立关系之后。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "无论向远，还是赴新域，真正的自由都发生在人与自然建立关系之后。",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "PingFang SC",
+            "color": "#34351F",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "无论向远，还是赴新域，真正的自由都发生在人与自然建立关系之后。",
+              "fontSize": 25,
+              "typeface": "PingFang SC",
+              "color": "#34351F",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

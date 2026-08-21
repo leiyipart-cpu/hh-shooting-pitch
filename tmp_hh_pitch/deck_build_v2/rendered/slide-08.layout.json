@@ -1,0 +1,753 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/knqdpu",
+    "id": "knqdpu",
+    "slide": 8,
+    "layoutId": "dc238534-2ce1-4d1b-997f-2d8aa4361ebe",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "163d7c4c-e191-4d51-8bb2-01f9a7d38869",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F2EFE8",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Helvetica Neue",
+      "PingFang SC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "dc238534-2ce1-4d1b-997f-2d8aa4361ebe",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "163d7c4c-e191-4d51-8bb2-01f9a7d38869",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "163d7c4c-e191-4d51-8bb2-01f9a7d38869",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ml8b6pk",
+      "id": "1",
+      "bbox": [
+        64,
+        58,
+        360,
+        26
+      ],
+      "geometry": "rect",
+      "text": "HELLY HANSEN WORLDVIEW",
+      "textPreview": "HELLY HANSEN WORLDVIEW",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Helvetica Neue",
+        "color": "#E3272E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HELLY HANSEN WORLDVIEW"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HELLY HANSEN WORLDVIEW",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Helvetica Neue",
+            "color": "#E3272E",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HELLY HANSEN WORLDVIEW",
+              "fontSize": 15,
+              "typeface": "Helvetica Neue",
+              "color": "#E3272E",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4nupkb65",
+      "id": "2",
+      "bbox": [
+        64,
+        140,
+        1080,
+        78
+      ],
+      "geometry": "rect",
+      "text": "世界不是用来征服的，",
+      "textPreview": "世界不是用来征服的，",
+      "resolvedFontSize": 58,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 58,
+        "typeface": "PingFang SC",
+        "color": "#071925",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "世界不是用来征服的，"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "世界不是用来征服的，",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 58,
+            "typeface": "PingFang SC",
+            "color": "#071925",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "世界不是用来征服的，",
+              "fontSize": 58,
+              "typeface": "PingFang SC",
+              "color": "#071925",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ponqdg7q",
+      "id": "3",
+      "bbox": [
+        64,
+        236,
+        1080,
+        86
+      ],
+      "geometry": "rect",
+      "text": "是用来进入的。",
+      "textPreview": "是用来进入的。",
+      "resolvedFontSize": 64,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 64,
+        "typeface": "PingFang SC",
+        "color": "#E3272E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "是用来进入的。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "是用来进入的。",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 64,
+            "typeface": "PingFang SC",
+            "color": "#E3272E",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "是用来进入的。",
+              "fontSize": 64,
+              "typeface": "PingFang SC",
+              "color": "#E3272E",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qpw7m1ob",
+      "id": "4",
+      "bbox": [
+        64,
+        354,
+        460,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#071925",
+      "lineWidth": 2
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rq58f6pg",
+      "id": "5",
+      "bbox": [
+        64,
+        394,
+        760,
+        182
+      ],
+      "geometry": "rect",
+      "text": "风、浪、雨与岩壁始终按自己的规则发生。\n真正的专业，不是让自然变得容易，\n而是让人看懂环境、信任同伴、依靠装备，\n在真实世界里多停留一会，再向前一步。",
+      "textPreview": "风、浪、雨与岩壁始终按自己的规则发生。 | 真正的专业，不是让自然变得容易， | 而是让人看懂环境、信任同伴、依靠装备， | 在真实世界里多停留一会，再向前一步。",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "PingFang SC",
+        "color": "#31566A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "风、浪、雨与岩壁始终按自己的规则发生。"
+          },
+          {
+            "index": 2,
+            "text": "真正的专业，不是让自然变得容易，"
+          },
+          {
+            "index": 3,
+            "text": "而是让人看懂环境、信任同伴、依靠装备，"
+          },
+          {
+            "index": 4,
+            "text": "在真实世界里多停留一会，再向前一步。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "风、浪、雨与岩壁始终按自己的规则发生。",
+          "lineSpacingPercent": 134000,
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "PingFang SC",
+            "color": "#31566A",
+            "alignment": "left",
+            "lineSpacing": 1.34
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "风、浪、雨与岩壁始终按自己的规则发生。",
+              "fontSize": 25,
+              "typeface": "PingFang SC",
+              "color": "#31566A",
+              "alignment": "left",
+              "lineSpacing": 1.34
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "真正的专业，不是让自然变得容易，",
+          "lineSpacingPercent": 134000,
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "PingFang SC",
+            "color": "#31566A",
+            "alignment": "left",
+            "lineSpacing": 1.34
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "真正的专业，不是让自然变得容易，",
+              "fontSize": 25,
+              "typeface": "PingFang SC",
+              "color": "#31566A",
+              "alignment": "left",
+              "lineSpacing": 1.34
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "而是让人看懂环境、信任同伴、依靠装备，",
+          "lineSpacingPercent": 134000,
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "PingFang SC",
+            "color": "#31566A",
+            "alignment": "left",
+            "lineSpacing": 1.34
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "而是让人看懂环境、信任同伴、依靠装备，",
+              "fontSize": 25,
+              "typeface": "PingFang SC",
+              "color": "#31566A",
+              "alignment": "left",
+              "lineSpacing": 1.34
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "在真实世界里多停留一会，再向前一步。",
+          "lineSpacingPercent": 134000,
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "PingFang SC",
+            "color": "#31566A",
+            "alignment": "left",
+            "lineSpacing": 1.34
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "在真实世界里多停留一会，再向前一步。",
+              "fontSize": 25,
+              "typeface": "PingFang SC",
+              "color": "#31566A",
+              "alignment": "left",
+              "lineSpacing": 1.34
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cre9ob61",
+      "id": "6",
+      "bbox": [
+        900,
+        388,
+        244,
+        244
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#071925",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dsnqhg7m",
+      "id": "7",
+      "bbox": [
+        924,
+        440,
+        196,
+        130
+      ],
+      "geometry": "rect",
+      "text": "ENTER\nTHE REAL\nWORLD",
+      "textPreview": "ENTER | THE REAL | WORLD",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 28,
+        "typeface": "Helvetica Neue",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ENTER"
+          },
+          {
+            "index": 2,
+            "text": "THE REAL"
+          },
+          {
+            "index": 3,
+            "text": "WORLD"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ENTER",
+          "lineSpacingPercent": 90000,
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Helvetica Neue",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 0.9
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ENTER",
+              "fontSize": 28,
+              "typeface": "Helvetica Neue",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 0.9
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "THE REAL",
+          "lineSpacingPercent": 90000,
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Helvetica Neue",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 0.9
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "THE REAL",
+              "fontSize": 28,
+              "typeface": "Helvetica Neue",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 0.9
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "WORLD",
+          "lineSpacingPercent": 90000,
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Helvetica Neue",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 0.9
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "WORLD",
+              "fontSize": 28,
+              "typeface": "Helvetica Neue",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 0.9
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6ts7ah8r",
+      "id": "8",
+      "name": "footer-rule-8",
+      "bbox": [
+        64,
+        688,
+        120,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E3272E",
+      "lineWidth": 3
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7u183mpc",
+      "id": "9",
+      "bbox": [
+        204,
+        678,
+        420,
+        22
+      ],
+      "geometry": "rect",
+      "text": "HELLY HANSEN 150 · THE LOGBOOK",
+      "textPreview": "HELLY HANSEN 150 · THE LOGBOOK",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 12,
+        "typeface": "Helvetica Neue",
+        "color": "#829099",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HELLY HANSEN 150 · THE LOGBOOK"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HELLY HANSEN 150 · THE LOGBOOK",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Helvetica Neue",
+            "color": "#829099",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HELLY HANSEN 150 · THE LOGBOOK",
+              "fontSize": 12,
+              "typeface": "Helvetica Neue",
+              "color": "#829099",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rahwrmlg",
+      "id": "10",
+      "bbox": [
+        1160,
+        678,
+        56,
+        22
+      ],
+      "geometry": "rect",
+      "text": "08",
+      "textPreview": "08",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 12,
+        "typeface": "Helvetica Neue",
+        "color": "#829099",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "08"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "08",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Helvetica Neue",
+            "color": "#829099",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "08",
+              "fontSize": 12,
+              "typeface": "Helvetica Neue",
+              "color": "#829099",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

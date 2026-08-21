@@ -1,0 +1,927 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/pzqxhb",
+    "id": "pzqxhb",
+    "slide": 28,
+    "layoutId": "b36d9d8d-714e-405c-8d1a-39d990d234b7",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "aa6dae71-e8f8-422d-b52d-eec4dda25118",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F2F1EC",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Avenir Next",
+      "Impact",
+      "PingFang SC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "b36d9d8d-714e-405c-8d1a-39d990d234b7",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "aa6dae71-e8f8-422d-b52d-eec4dda25118",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "aa6dae71-e8f8-422d-b52d-eec4dda25118",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d07mpkj6",
+      "id": "1",
+      "bbox": [
+        48,
+        46,
+        920,
+        48
+      ],
+      "geometry": "rect",
+      "text": "FIVE WAYS TO MOVE WITH NATURE",
+      "textPreview": "FIVE WAYS TO MOVE WITH NATURE",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 42,
+        "typeface": "Impact",
+        "color": "#34351F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "FIVE WAYS TO MOVE WITH NATURE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "FIVE WAYS TO MOVE WITH NATURE",
+          "lineSpacingPercent": 90000,
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Impact",
+            "color": "#34351F",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.9
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "FIVE WAYS TO MOVE WITH NATURE",
+              "fontSize": 42,
+              "typeface": "Impact",
+              "color": "#34351F",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.9
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qdg3upkv",
+      "id": "2",
+      "bbox": [
+        48,
+        108,
+        98,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#FF1515",
+      "lineWidth": 5
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/byp4na1g",
+      "id": "3",
+      "bbox": [
+        48,
+        128,
+        1040,
+        62
+      ],
+      "geometry": "rect",
+      "text": "五套户外Look，是五种回应自然的方式",
+      "textPreview": "五套户外Look，是五种回应自然的方式",
+      "resolvedFontSize": 40,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 40,
+        "typeface": "PingFang SC",
+        "color": "#34351F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "五套户外Look，是五种回应自然的方式"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "五套户外Look，是五种回应自然的方式",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 40,
+            "typeface": "PingFang SC",
+            "color": "#34351F",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "五套户外Look，是五种回应自然的方式",
+              "fontSize": 40,
+              "typeface": "PingFang SC",
+              "color": "#34351F",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/03y50z2x",
+      "id": "4",
+      "bbox": [
+        1030,
+        25,
+        190,
+        30
+      ],
+      "geometry": "rect",
+      "text": "HH  ×  VCHINA",
+      "textPreview": "HH  ×  VCHINA",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Impact",
+        "color": "#171914",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HH  ×  VCHINA"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HH  ×  VCHINA",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Impact",
+            "color": "#171914",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HH  ×  VCHINA",
+              "fontSize": 20,
+              "typeface": "Impact",
+              "color": "#171914",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l4rmt4ji",
+      "id": "5",
+      "bbox": [
+        48,
+        676,
+        360,
+        18
+      ],
+      "geometry": "rect",
+      "text": "HELLY HANSEN 27SS",
+      "textPreview": "HELLY HANSEN 27SS",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Avenir Next",
+        "color": "#7D7F75",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HELLY HANSEN 27SS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HELLY HANSEN 27SS",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Avenir Next",
+            "color": "#7D7F75",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HELLY HANSEN 27SS",
+              "fontSize": 11,
+              "typeface": "Avenir Next",
+              "color": "#7D7F75",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y1gnypkr",
+      "id": "6",
+      "bbox": [
+        1168,
+        676,
+        52,
+        18
+      ],
+      "geometry": "rect",
+      "text": "28",
+      "textPreview": "28",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Avenir Next",
+        "color": "#7D7F75",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "28"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "28",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Avenir Next",
+            "color": "#7D7F75",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "28",
+              "fontSize": 11,
+              "typeface": "Avenir Next",
+              "color": "#7D7F75",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/ad07qh0j",
+      "id": "7",
+      "bbox": [
+        48,
+        252,
+        360,
+        238
+      ],
+      "alt": "Outdoor look group 1",
+      "contentType": "image/jpeg",
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "a981c506-6fa5-4271-a0bb-a5a7011f02d5",
+        "contentType": "image/jpeg",
+        "byteLength": 142846
+      }
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/87i54z2t",
+      "id": "8",
+      "bbox": [
+        48,
+        512,
+        360,
+        32
+      ],
+      "geometry": "rect",
+      "text": "02 / 03 · 徒步",
+      "textPreview": "02 / 03 · 徒步",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "PingFang SC",
+        "color": "#34351F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02 / 03 · 徒步"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02 / 03 · 徒步",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "PingFang SC",
+            "color": "#34351F",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02 / 03 · 徒步",
+              "fontSize": 19,
+              "typeface": "PingFang SC",
+              "color": "#34351F",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/98rmx4je",
+      "id": "9",
+      "bbox": [
+        48,
+        556,
+        360,
+        54
+      ],
+      "geometry": "rect",
+      "text": "读懂天气与地势",
+      "textPreview": "读懂天气与地势",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "PingFang SC",
+        "color": "#58572F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "读懂天气与地势"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "读懂天气与地势",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "PingFang SC",
+            "color": "#58572F",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "读懂天气与地势",
+              "fontSize": 22,
+              "typeface": "PingFang SC",
+              "color": "#58572F",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/ahcbatcv",
+      "id": "10",
+      "bbox": [
+        444,
+        252,
+        360,
+        238
+      ],
+      "alt": "Outdoor look group 2",
+      "contentType": "image/jpeg",
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "b99e7070-c233-4e75-8b15-748f5cbe107f",
+        "contentType": "image/jpeg",
+        "byteLength": 208893
+      }
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kjidkbq1",
+      "id": "11",
+      "bbox": [
+        444,
+        512,
+        360,
+        32
+      ],
+      "geometry": "rect",
+      "text": "06 · 溯溪",
+      "textPreview": "06 · 溯溪",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "PingFang SC",
+        "color": "#34351F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "06 · 溯溪"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "06 · 溯溪",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "PingFang SC",
+            "color": "#34351F",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "06 · 溯溪",
+              "fontSize": 19,
+              "typeface": "PingFang SC",
+              "color": "#34351F",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ji9wb69g",
+      "id": "12",
+      "bbox": [
+        444,
+        556,
+        360,
+        54
+      ],
+      "geometry": "rect",
+      "text": "顺应水流与光线",
+      "textPreview": "顺应水流与光线",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "PingFang SC",
+        "color": "#58572F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "顺应水流与光线"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "顺应水流与光线",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "PingFang SC",
+            "color": "#58572F",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "顺应水流与光线",
+              "fontSize": 22,
+              "typeface": "PingFang SC",
+              "color": "#58572F",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/xk3u5ovm",
+      "id": "13",
+      "bbox": [
+        840,
+        252,
+        360,
+        238
+      ],
+      "alt": "Outdoor look group 3",
+      "contentType": "image/jpeg",
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "c61a46cf-bcdf-40df-b4b6-e023f048236a",
+        "contentType": "image/jpeg",
+        "byteLength": 130274
+      }
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t8behgry",
+      "id": "14",
+      "bbox": [
+        840,
+        512,
+        360,
+        32
+      ],
+      "geometry": "rect",
+      "text": "05 / 08 · 越野跑",
+      "textPreview": "05 / 08 · 越野跑",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "PingFang SC",
+        "color": "#34351F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "05 / 08 · 越野跑"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "05 / 08 · 越野跑",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "PingFang SC",
+            "color": "#34351F",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "05 / 08 · 越野跑",
+              "fontSize": 19,
+              "typeface": "PingFang SC",
+              "color": "#34351F",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s72dobqd",
+      "id": "15",
+      "bbox": [
+        840,
+        556,
+        360,
+        54
+      ],
+      "geometry": "rect",
+      "text": "让脚步与山野同步",
+      "textPreview": "让脚步与山野同步",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "PingFang SC",
+        "color": "#FF1515",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "让脚步与山野同步"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "让脚步与山野同步",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "PingFang SC",
+            "color": "#FF1515",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "让脚步与山野同步",
+              "fontSize": 22,
+              "typeface": "PingFang SC",
+              "color": "#FF1515",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

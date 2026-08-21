@@ -1,0 +1,937 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/lp1hys",
+    "id": "lp1hys",
+    "slide": 19,
+    "layoutId": "dc238534-2ce1-4d1b-997f-2d8aa4361ebe",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "163d7c4c-e191-4d51-8bb2-01f9a7d38869",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Helvetica Neue",
+      "PingFang SC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "dc238534-2ce1-4d1b-997f-2d8aa4361ebe",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "163d7c4c-e191-4d51-8bb2-01f9a7d38869",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "163d7c4c-e191-4d51-8bb2-01f9a7d38869",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d0zepkfu",
+      "id": "1",
+      "bbox": [
+        64,
+        48,
+        560,
+        22
+      ],
+      "geometry": "rect",
+      "text": "FILM 01 · CORE DRAMA",
+      "textPreview": "FILM 01 · CORE DRAMA",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Helvetica Neue",
+        "color": "#E3272E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "FILM 01 · CORE DRAMA"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "FILM 01 · CORE DRAMA",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Helvetica Neue",
+            "color": "#E3272E",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "FILM 01 · CORE DRAMA",
+              "fontSize": 14,
+              "typeface": "Helvetica Neue",
+              "color": "#E3272E",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qx8fupw3",
+      "id": "2",
+      "bbox": [
+        64,
+        82,
+        1120,
+        72
+      ],
+      "geometry": "rect",
+      "text": "风不认船长，只认 Crew",
+      "textPreview": "风不认船长，只认 Crew",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 48,
+        "typeface": "PingFang SC",
+        "color": "#071925",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "风不认船长，只认 Crew"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "风不认船长，只认 Crew",
+          "lineSpacingPercent": 95000,
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "PingFang SC",
+            "color": "#071925",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.95
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "风不认船长，只认 Crew",
+              "fontSize": 48,
+              "typeface": "PingFang SC",
+              "color": "#071925",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.95
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ryhw3uxo",
+      "id": "3",
+      "bbox": [
+        64,
+        154,
+        1080,
+        54
+      ],
+      "geometry": "rect",
+      "text": "当风向改变，任何人都不能单独把船带远。",
+      "textPreview": "当风向改变，任何人都不能单独把船带远。",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "PingFang SC",
+        "color": "#31566A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "当风向改变，任何人都不能单独把船带远。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "当风向改变，任何人都不能单独把船带远。",
+          "lineSpacingPercent": 110000,
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "PingFang SC",
+            "color": "#31566A",
+            "alignment": "left",
+            "lineSpacing": 1.1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "当风向改变，任何人都不能单独把船带远。",
+              "fontSize": 22,
+              "typeface": "PingFang SC",
+              "color": "#31566A",
+              "alignment": "left",
+              "lineSpacing": 1.1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0nax0ze5",
+      "id": "4",
+      "name": "footer-rule-19",
+      "bbox": [
+        64,
+        688,
+        120,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E3272E",
+      "lineWidth": 3
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lojyt4fq",
+      "id": "5",
+      "bbox": [
+        204,
+        678,
+        420,
+        22
+      ],
+      "geometry": "rect",
+      "text": "HELLY HANSEN 150 · THE LOGBOOK",
+      "textPreview": "HELLY HANSEN 150 · THE LOGBOOK",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 12,
+        "typeface": "Helvetica Neue",
+        "color": "#829099",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HELLY HANSEN 150 · THE LOGBOOK"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HELLY HANSEN 150 · THE LOGBOOK",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Helvetica Neue",
+            "color": "#829099",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HELLY HANSEN 150 · THE LOGBOOK",
+              "fontSize": 12,
+              "typeface": "Helvetica Neue",
+              "color": "#829099",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/elsfypwf",
+      "id": "6",
+      "bbox": [
+        1160,
+        678,
+        56,
+        22
+      ],
+      "geometry": "rect",
+      "text": "19",
+      "textPreview": "19",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 12,
+        "typeface": "Helvetica Neue",
+        "color": "#829099",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "19"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "19",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Helvetica Neue",
+            "color": "#829099",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "19",
+              "fontSize": 12,
+              "typeface": "Helvetica Neue",
+              "color": "#829099",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zm1grux0",
+      "id": "7",
+      "bbox": [
+        64,
+        240,
+        690,
+        120
+      ],
+      "geometry": "rect",
+      "text": "不是“王一博驾驶帆船”的明星大片，\n而是他加入一支真实 Crew 后，第一次把判断交给共同经验。",
+      "textPreview": "不是“王一博驾驶帆船”的明星大片， | 而是他加入一支真实 Crew 后，第一次把判断交给共同经验。",
+      "resolvedFontSize": 31,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 31,
+        "typeface": "PingFang SC",
+        "color": "#071925",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "不是“王一博驾驶帆船”的明星大片，"
+          },
+          {
+            "index": 2,
+            "text": "而是他加入一支真实 Crew"
+          },
+          {
+            "index": 3,
+            "text": "后，第一次把判断交给共同经验。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "不是“王一博驾驶帆船”的明星大片，",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "PingFang SC",
+            "color": "#071925",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "不是“王一博驾驶帆船”的明星大片，",
+              "fontSize": 31,
+              "typeface": "PingFang SC",
+              "color": "#071925",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "而是他加入一支真实 Crew 后，第一次把判断交给共同经验。",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "PingFang SC",
+            "color": "#071925",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "而是他加入一支真实 Crew 后，第一次把判断交给共同经验。",
+              "fontSize": 31,
+              "typeface": "PingFang SC",
+              "color": "#071925",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8rax4jeh",
+      "id": "8",
+      "bbox": [
+        832,
+        236,
+        344,
+        280
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#071925",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9sjyx4v2",
+      "id": "9",
+      "bbox": [
+        864,
+        268,
+        140,
+        28
+      ],
+      "geometry": "rect",
+      "text": "人物关系",
+      "textPreview": "人物关系",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Helvetica Neue",
+        "color": "#E3272E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "人物关系"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "人物关系",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Helvetica Neue",
+            "color": "#E3272E",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "人物关系",
+              "fontSize": 15,
+              "typeface": "Helvetica Neue",
+              "color": "#E3272E",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ds7adofi",
+      "id": "10",
+      "bbox": [
+        864,
+        324,
+        200,
+        40
+      ],
+      "geometry": "rect",
+      "text": "新 Crew",
+      "textPreview": "新 Crew",
+      "resolvedFontSize": 31,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 31,
+        "typeface": "PingFang SC",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "新 Crew"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "新 Crew",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "PingFang SC",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "新 Crew",
+              "fontSize": 31,
+              "typeface": "PingFang SC",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sret43yx",
+      "id": "11",
+      "bbox": [
+        864,
+        382,
+        270,
+        88
+      ],
+      "geometry": "rect",
+      "text": "被纠正 → 学会观察 → 作出判断 → 获得托付",
+      "textPreview": "被纠正 → 学会观察 → 作出判断 → 获得托付",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "PingFang SC",
+        "color": "#C6D2D7",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "被纠正 → 学会观察 →"
+          },
+          {
+            "index": 2,
+            "text": "作出判断 → 获得托付"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "被纠正 → 学会观察 → 作出判断 → 获得托付",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "PingFang SC",
+            "color": "#C6D2D7",
+            "alignment": "left",
+            "lineSpacing": 1.25
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "被纠正 → 学会观察 → 作出判断 → 获得托付",
+              "fontSize": 21,
+              "typeface": "PingFang SC",
+              "color": "#C6D2D7",
+              "alignment": "left",
+              "lineSpacing": 1.25
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rq5sbyxs",
+      "id": "12",
+      "bbox": [
+        64,
+        448,
+        160,
+        26
+      ],
+      "geometry": "rect",
+      "text": "品牌证明",
+      "textPreview": "品牌证明",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Helvetica Neue",
+        "color": "#E3272E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "品牌证明"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "品牌证明",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Helvetica Neue",
+            "color": "#E3272E",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "品牌证明",
+              "fontSize": 15,
+              "typeface": "Helvetica Neue",
+              "color": "#E3272E",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qpwb2tg7",
+      "id": "13",
+      "bbox": [
+        64,
+        488,
+        660,
+        88
+      ],
+      "geometry": "rect",
+      "text": "HH 的专业不是一个人的英勇，\n而是一套让每个人都能继续前行的系统。",
+      "textPreview": "HH 的专业不是一个人的英勇， | 而是一套让每个人都能继续前行的系统。",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "PingFang SC",
+        "color": "#31566A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HH 的专业不是一个人的英勇，"
+          },
+          {
+            "index": 2,
+            "text": "而是一套让每个人都能继续前行的系统。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HH 的专业不是一个人的英勇，",
+          "lineSpacingPercent": 120000,
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "PingFang SC",
+            "color": "#31566A",
+            "alignment": "left",
+            "lineSpacing": 1.2
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HH 的专业不是一个人的英勇，",
+              "fontSize": 25,
+              "typeface": "PingFang SC",
+              "color": "#31566A",
+              "alignment": "left",
+              "lineSpacing": 1.2
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "而是一套让每个人都能继续前行的系统。",
+          "lineSpacingPercent": 120000,
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "PingFang SC",
+            "color": "#31566A",
+            "alignment": "left",
+            "lineSpacing": 1.2
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "而是一套让每个人都能继续前行的系统。",
+              "fontSize": 25,
+              "typeface": "PingFang SC",
+              "color": "#31566A",
+              "alignment": "left",
+              "lineSpacing": 1.2
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,782 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/end4ai",
+    "id": "end4ai",
+    "slide": 24,
+    "layoutId": "b36d9d8d-714e-405c-8d1a-39d990d234b7",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "aa6dae71-e8f8-422d-b52d-eec4dda25118",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#E9E9E3",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Avenir Next",
+      "Impact",
+      "PingFang SC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "b36d9d8d-714e-405c-8d1a-39d990d234b7",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "aa6dae71-e8f8-422d-b52d-eec4dda25118",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "aa6dae71-e8f8-422d-b52d-eec4dda25118",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p8bq5gz6",
+      "id": "1",
+      "bbox": [
+        48,
+        46,
+        920,
+        48
+      ],
+      "geometry": "rect",
+      "text": "DEAR RACER IS AN OPEN CALL",
+      "textPreview": "DEAR RACER IS AN OPEN CALL",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 42,
+        "typeface": "Impact",
+        "color": "#34351F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DEAR RACER IS AN OPEN CALL"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DEAR RACER IS AN OPEN CALL",
+          "lineSpacingPercent": 90000,
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Impact",
+            "color": "#34351F",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.9
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DEAR RACER IS AN OPEN CALL",
+              "fontSize": 42,
+              "typeface": "Impact",
+              "color": "#34351F",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.9
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/25kral0v",
+      "id": "2",
+      "bbox": [
+        48,
+        108,
+        98,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#FF1515",
+      "lineWidth": 5
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n6t83qhg",
+      "id": "3",
+      "bbox": [
+        48,
+        128,
+        1040,
+        62
+      ],
+      "geometry": "rect",
+      "text": "Dear Racer，不必被拍成一封具体的信",
+      "textPreview": "Dear Racer，不必被拍成一封具体的信",
+      "resolvedFontSize": 40,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 40,
+        "typeface": "PingFang SC",
+        "color": "#34351F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Dear Racer，不必被拍成一封具体的信"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Dear Racer，不必被拍成一封具体的信",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 40,
+            "typeface": "PingFang SC",
+            "color": "#34351F",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Dear Racer，不必被拍成一封具体的信",
+              "fontSize": 40,
+              "typeface": "PingFang SC",
+              "color": "#34351F",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cbm9gvix",
+      "id": "4",
+      "bbox": [
+        1030,
+        25,
+        190,
+        30
+      ],
+      "geometry": "rect",
+      "text": "HH  ×  VCHINA",
+      "textPreview": "HH  ×  VCHINA",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Impact",
+        "color": "#171914",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HH  ×  VCHINA"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HH  ×  VCHINA",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Impact",
+            "color": "#171914",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HH  ×  VCHINA",
+              "fontSize": 20,
+              "typeface": "Impact",
+              "color": "#171914",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xcvq90zi",
+      "id": "5",
+      "bbox": [
+        48,
+        676,
+        360,
+        18
+      ],
+      "geometry": "rect",
+      "text": "HELLY HANSEN 27SS",
+      "textPreview": "HELLY HANSEN 27SS",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Avenir Next",
+        "color": "#7D7F75",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HELLY HANSEN 27SS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HELLY HANSEN 27SS",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Avenir Next",
+            "color": "#7D7F75",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HELLY HANSEN 27SS",
+              "fontSize": 11,
+              "typeface": "Avenir Next",
+              "color": "#7D7F75",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a94rel0r",
+      "id": "6",
+      "bbox": [
+        1168,
+        676,
+        52,
+        18
+      ],
+      "geometry": "rect",
+      "text": "24",
+      "textPreview": "24",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Avenir Next",
+        "color": "#7D7F75",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "24"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "24",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Avenir Next",
+            "color": "#7D7F75",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1.05
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "24",
+              "fontSize": 11,
+              "typeface": "Avenir Next",
+              "color": "#7D7F75",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1.05
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bad87qhc",
+      "id": "7",
+      "bbox": [
+        48,
+        286,
+        620,
+        122
+      ],
+      "geometry": "rect",
+      "text": "它不是一种格式，\n而是HH对所有跑者的一次公开称呼。",
+      "textPreview": "它不是一种格式， | 而是HH对所有跑者的一次公开称呼。",
+      "resolvedFontSize": 36,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 36,
+        "typeface": "PingFang SC",
+        "color": "#34351F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "它不是一种格式，"
+          },
+          {
+            "index": 2,
+            "text": "而是HH对所有跑者的一次公开称呼。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "它不是一种格式，",
+          "lineSpacingPercent": 120000,
+          "resolvedTextStyle": {
+            "fontSize": 36,
+            "typeface": "PingFang SC",
+            "color": "#34351F",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.2
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "它不是一种格式，",
+              "fontSize": 36,
+              "typeface": "PingFang SC",
+              "color": "#34351F",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.2
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "而是HH对所有跑者的一次公开称呼。",
+          "lineSpacingPercent": 120000,
+          "resolvedTextStyle": {
+            "fontSize": 36,
+            "typeface": "PingFang SC",
+            "color": "#34351F",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.2
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "而是HH对所有跑者的一次公开称呼。",
+              "fontSize": 36,
+              "typeface": "PingFang SC",
+              "color": "#34351F",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.2
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sfip4rit",
+      "id": "8",
+      "bbox": [
+        48,
+        446,
+        110,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#FF1515",
+      "lineWidth": 5
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dgrqxwjy",
+      "id": "9",
+      "bbox": [
+        48,
+        492,
+        710,
+        100
+      ],
+      "geometry": "rect",
+      "text": "不限定手写、信封或逐字旁白。\n可以是一段由呼吸、脚步、碎石、水流与风共同组成的开放宣言。",
+      "textPreview": "不限定手写、信封或逐字旁白。 | 可以是一段由呼吸、脚步、碎石、水流与风共同组成的开放宣言。",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "PingFang SC",
+        "color": "#58572F",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "不限定手写、信封或逐字旁白。"
+          },
+          {
+            "index": 2,
+            "text": "可以是一段由呼吸、脚步、碎石、水流与风共同组成的开放宣言。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "不限定手写、信封或逐字旁白。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "PingFang SC",
+            "color": "#58572F",
+            "alignment": "left",
+            "lineSpacing": 1.25
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "不限定手写、信封或逐字旁白。",
+              "fontSize": 22,
+              "typeface": "PingFang SC",
+              "color": "#58572F",
+              "alignment": "left",
+              "lineSpacing": 1.25
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "可以是一段由呼吸、脚步、碎石、水流与风共同组成的开放宣言。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "PingFang SC",
+            "color": "#58572F",
+            "alignment": "left",
+            "lineSpacing": 1.25
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "可以是一段由呼吸、脚步、碎石、水流与风共同组成的开放宣言。",
+              "fontSize": 22,
+              "typeface": "PingFang SC",
+              "color": "#58572F",
+              "alignment": "left",
+              "lineSpacing": 1.25
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lwn294fi",
+      "id": "10",
+      "bbox": [
+        820,
+        294,
+        370,
+        180
+      ],
+      "geometry": "rect",
+      "text": "DEAR RACER,\nFIND YOUR STEP\nIN THE WILD.",
+      "textPreview": "DEAR RACER, | FIND YOUR STEP | IN THE WILD.",
+      "resolvedFontSize": 46,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 46,
+        "typeface": "Impact",
+        "color": "#FF1515",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DEAR RACER,"
+          },
+          {
+            "index": 2,
+            "text": "FIND YOUR STEP"
+          },
+          {
+            "index": 3,
+            "text": "IN THE WILD."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DEAR RACER,",
+          "lineSpacingPercent": 95000,
+          "resolvedTextStyle": {
+            "fontSize": 46,
+            "typeface": "Impact",
+            "color": "#FF1515",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 0.95
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DEAR RACER,",
+              "fontSize": 46,
+              "typeface": "Impact",
+              "color": "#FF1515",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 0.95
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "FIND YOUR STEP",
+          "lineSpacingPercent": 95000,
+          "resolvedTextStyle": {
+            "fontSize": 46,
+            "typeface": "Impact",
+            "color": "#FF1515",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 0.95
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "FIND YOUR STEP",
+              "fontSize": 46,
+              "typeface": "Impact",
+              "color": "#FF1515",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 0.95
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "IN THE WILD.",
+          "lineSpacingPercent": 95000,
+          "resolvedTextStyle": {
+            "fontSize": 46,
+            "typeface": "Impact",
+            "color": "#FF1515",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 0.95
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "IN THE WILD.",
+              "fontSize": 46,
+              "typeface": "Impact",
+              "color": "#FF1515",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 0.95
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,33 @@
+HH150周年竞标创意提案 - source and asset provenance
+
+Primary user-provided sources
+- /Users/leiyi/Desktop/HH/HELLY HANSEN27SS代言人拍摄SHOOTING BRIEF (1).pdf
+- /Users/leiyi/Downloads/智能纪要：品牌150周年拍摄项目规划 2026年8月5日.pdf
+- /Users/leiyi/Downloads/Helly_Hansen_150周年拍摄项目策划方案.pdf
+- /Users/leiyi/Downloads/HH150周年《航海志》世界观深化创意文档_V2.docx
+- /Users/leiyi/Downloads/HH150周年《航海志》世界观深化创意文档.docx
+- /Users/leiyi/Downloads/HH150周年拍摄项目创意提案.docx
+
+Editorial decisions introduced in this deck
+- Added a six-slide worldview chapter that separates philosophy from executional device.
+- Defined the worldview as: 世界不是用来征服的，是用来进入的 / The world is not to be conquered, but entered.
+- Established the complete chain: Friluftsliv (relationship with the world) + Trust by Professional (HH method) -> Stay & Feel Alive (human outcome) -> 向更远 赴新域 (annual expression).
+- Established five worldview laws that govern every later creative decision.
+- Established a five-symbol system: wind, crew, gear, light and logbook.
+- Reclassified THE LOGBOOK from Big Idea to Narrative Device: the worldview is the belief system; the logbook makes it visible and renewable.
+- Reframed the Logbook as a new 150th-anniversary platform that begins now and can be renewed annually, rather than an unverified artifact passed down since 1877.
+- Kept Friluftsliv as a cultural design principle, not a consumer-facing campaign headline.
+- Reframed the ambassador as the audience's first crew member: visible and emotionally useful, but not a solo hero who overwhelms the brand.
+- Replaced surrender-to-uncertainty language with professional trust: expertise, crew and equipment make the unknown reachable.
+- Unified the two films as Chapter 01 / Chapter 02 of one platform while preserving their distinct communication jobs.
+
+Generated concept visuals (OpenAI ImageGen; concept only, not final photography)
+- sailing-crew-hero.png: five-person crew operating a black M32-style catamaran on Lake Garda; quiet Scandinavian documentary style; negative space left.
+- logbook-hero.png: new expedition logbook on worn navy sailcloth with route marks, rope and compass; no readable text.
+- trail-hero.png: East Asian male runner and two experienced runners on a technical Dolomites trail at blue hour.
+- trail-shoe-grip.png: unbranded pale-lime prototype trail shoe contacting wet dark limestone.
+- sailing-nightglow.png: five-person crew returning at blue hour with subtle absorbed-light wave/star textile treatment.
+- sailing-hands.png: close detail of two crew members tensioning rope on a wet winch.
+- trail-afterglow.png: three equal runners reaching a Dolomites ridge in muted Enrosadira light.
+
+All generated visuals avoid visible logos and are labeled in-deck as visual-direction mockups. Product form and talent likeness remain subject to official assets and approvals.

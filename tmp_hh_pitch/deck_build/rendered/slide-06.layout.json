@@ -1,0 +1,609 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/ezrxqe",
+    "id": "ezrxqe",
+    "slide": 6,
+    "layoutId": "b8185da9-d86d-4df0-a7c1-60dc6b17bc0d",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "47b19d9c-07de-45f4-8404-6da37421c1ca",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Helvetica Neue",
+      "PingFang SC",
+      "Songti SC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "b8185da9-d86d-4df0-a7c1-60dc6b17bc0d",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "47b19d9c-07de-45f4-8404-6da37421c1ca",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "47b19d9c-07de-45f4-8404-6da37421c1ca",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/qxoji983",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "alt": "Concept visual: the new expedition logbook",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "06f5c860-3c19-45d1-a59b-421c3a3bd62f",
+        "contentType": "image/png",
+        "byteLength": 2422881
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kzqh0ne1",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        565,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(7, 25, 37, 0.9)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l0zytsv6",
+      "id": "3",
+      "bbox": [
+        64,
+        62,
+        126,
+        34
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#E3272E",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a9ofutwj",
+      "id": "4",
+      "bbox": [
+        80,
+        68,
+        94,
+        22
+      ],
+      "geometry": "rect",
+      "text": "BIG IDEA",
+      "textPreview": "BIG IDEA",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 14,
+        "typeface": "Helvetica Neue",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "BIG IDEA"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "BIG IDEA",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Helvetica Neue",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "BIG IDEA",
+              "fontSize": 14,
+              "typeface": "Helvetica Neue",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/baxgnyd4",
+      "id": "5",
+      "bbox": [
+        64,
+        136,
+        450,
+        150
+      ],
+      "geometry": "rect",
+      "text": "THE\nLOGBOOK",
+      "textPreview": "THE | LOGBOOK",
+      "resolvedFontSize": 65,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 65,
+        "typeface": "Helvetica Neue",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "THE"
+          },
+          {
+            "index": 2,
+            "text": "LOGBOOK"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "THE",
+          "lineSpacingPercent": 84000,
+          "resolvedTextStyle": {
+            "fontSize": 65,
+            "typeface": "Helvetica Neue",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.84
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "THE",
+              "fontSize": 65,
+              "typeface": "Helvetica Neue",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.84
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "LOGBOOK",
+          "lineSpacingPercent": 84000,
+          "resolvedTextStyle": {
+            "fontSize": 65,
+            "typeface": "Helvetica Neue",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.84
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LOGBOOK",
+              "fontSize": 65,
+              "typeface": "Helvetica Neue",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.84
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wb6xw3ep",
+      "id": "6",
+      "bbox": [
+        64,
+        308,
+        430,
+        52
+      ],
+      "geometry": "rect",
+      "text": "《航海志》",
+      "textPreview": "《航海志》",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 38,
+        "typeface": "Songti SC",
+        "color": "#F2EFE8",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "《航海志》"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "《航海志》",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 38,
+            "typeface": "Songti SC",
+            "color": "#F2EFE8",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "《航海志》",
+              "fontSize": 38,
+              "typeface": "Songti SC",
+              "color": "#F2EFE8",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xwzyp8va",
+      "id": "7",
+      "bbox": [
+        64,
+        390,
+        330,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E3272E",
+      "lineWidth": 4
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/25ofqtwn",
+      "id": "8",
+      "bbox": [
+        64,
+        420,
+        440,
+        108
+      ],
+      "geometry": "rect",
+      "text": "一本在 150 周年正式启用的远行记录。\n不是怀旧道具，而是未来每一年都可由真实 Crew 续写的内容平台。",
+      "textPreview": "一本在 150 周年正式启用的远行记录。 | 不是怀旧道具，而是未来每一年都可由真实 Crew 续写的内容平台。",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "PingFang SC",
+        "color": "#D3DEE2",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "一本在 150 周年正式启用的远行记录。"
+          },
+          {
+            "index": 2,
+            "text": "不是怀旧道具，而是未来每一年都可由真实"
+          },
+          {
+            "index": 3,
+            "text": "Crew 续写的内容平台。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "一本在 150 周年正式启用的远行记录。",
+          "lineSpacingPercent": 128000,
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "PingFang SC",
+            "color": "#D3DEE2",
+            "alignment": "left",
+            "lineSpacing": 1.28
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "一本在 150 周年正式启用的远行记录。",
+              "fontSize": 22,
+              "typeface": "PingFang SC",
+              "color": "#D3DEE2",
+              "alignment": "left",
+              "lineSpacing": 1.28
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "不是怀旧道具，而是未来每一年都可由真实 Crew 续写的内容平台。",
+          "lineSpacingPercent": 128000,
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "PingFang SC",
+            "color": "#D3DEE2",
+            "alignment": "left",
+            "lineSpacing": 1.28
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "不是怀旧道具，而是未来每一年都可由真实 Crew 续写的内容平台。",
+              "fontSize": 22,
+              "typeface": "PingFang SC",
+              "color": "#D3DEE2",
+              "alignment": "left",
+              "lineSpacing": 1.28
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n6xgjyx8",
+      "id": "9",
+      "bbox": [
+        64,
+        578,
+        340,
+        62
+      ],
+      "geometry": "rect",
+      "text": "CHAPTER 01 · SEA\nCHAPTER 02 · TRAIL\nNEXT CHAPTER · OPEN",
+      "textPreview": "CHAPTER 01 · SEA | CHAPTER 02 · TRAIL | NEXT CHAPTER · OPEN",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Helvetica Neue",
+        "color": "#8FA6B0",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CHAPTER 01 · SEA"
+          },
+          {
+            "index": 2,
+            "text": "CHAPTER 02 · TRAIL"
+          },
+          {
+            "index": 3,
+            "text": "NEXT CHAPTER · OPEN"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CHAPTER 01 · SEA",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Helvetica Neue",
+            "color": "#8FA6B0",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.25
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CHAPTER 01 · SEA",
+              "fontSize": 15,
+              "typeface": "Helvetica Neue",
+              "color": "#8FA6B0",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.25
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "CHAPTER 02 · TRAIL",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Helvetica Neue",
+            "color": "#8FA6B0",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.25
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CHAPTER 02 · TRAIL",
+              "fontSize": 15,
+              "typeface": "Helvetica Neue",
+              "color": "#8FA6B0",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.25
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "NEXT CHAPTER · OPEN",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Helvetica Neue",
+            "color": "#8FA6B0",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.25
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "NEXT CHAPTER · OPEN",
+              "fontSize": 15,
+              "typeface": "Helvetica Neue",
+              "color": "#8FA6B0",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.25
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

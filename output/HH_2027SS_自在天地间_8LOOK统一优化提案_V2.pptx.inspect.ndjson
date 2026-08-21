@@ -1,0 +1,541 @@
+{"kind":"deck","id":"pr/pqm4ae","name":"Deck"}
+{"kind":"layout","layoutId":"26fa288b-da89-4fc8-a3f4-6a9d3ce70e62","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"a6fa9eb7-8300-4e8d-b753-7b115428447a","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/rk0bq5","slide":1,"title":"Slide 1","textShapes":0}
+{"kind":"image","id":"im/u5gbi5cf","slide":1,"name":"","alt":"User-provided visual reference page 1","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/rk0bq5","slide":1,"text":"[Sources]\n- User-provided visual reference: /Users/leiyi/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_quxdxdtw6hg921_b667/temp/RWTemp/2026-08/a03da6a1b3b13d5b61e64457b271073e/9ade166d5007291926bf1f9b6ef6a035.png."}
+{"kind":"slide","id":"sl/uwdcna","slide":2,"title":"Slide 2","textShapes":0}
+{"kind":"image","id":"im/vyhkf6ts","slide":2,"name":"","alt":"User-provided visual reference page 2","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/uwdcna","slide":2,"text":"[Sources]\n- User-provided visual reference: /Users/leiyi/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_quxdxdtw6hg921_b667/temp/RWTemp/2026-08/a03da6a1b3b13d5b61e64457b271073e/ff6b4a5a81eeaf08498084c5ed523b3d.png."}
+{"kind":"slide","id":"sl/nsna00","slide":3,"title":"Slide 3","textShapes":0}
+{"kind":"image","id":"im/5sbal07i","slide":3,"name":"","alt":"User-provided visual reference page 3","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/nsna00","slide":3,"text":"[Sources]\n- User-provided visual reference: /Users/leiyi/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_quxdxdtw6hg921_b667/temp/RWTemp/2026-08/a03da6a1b3b13d5b61e64457b271073e/7bb33db253eaab6661f0c5745b6b4927.png."}
+{"kind":"slide","id":"sl/c0f49p","slide":4,"title":"HH  ×  VCHINA","textShapes":11}
+{"kind":"shape","id":"sh/98redcbu","slide":4,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/o7ix4rup","slide":4,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/ba9gfmt0","slide":4,"text":"WORLDVIEW","textPreview":"WORLDVIEW","textChars":9,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/a90f6hcf","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/xwryhwb6","slide":4,"text":"THE CULTURAL COLLISION","textPreview":"THE CULTURAL COLLISION","textChars":22,"textLines":1,"bbox":[48,44,760,48]}
+{"kind":"textbox","id":"sh/wbix8rul","slide":4,"text":"一北一东，两种自然观在此相遇","textPreview":"一北一东，两种自然观在此相遇","textChars":14,"textLines":1,"bbox":[48,126,850,54]}
+{"kind":"shape","id":"sh/re5w32dw","slide":4,"bbox":[48,204,110,0]}
+{"kind":"textbox","id":"sh/qdwfuxcb","slide":4,"text":"FRILUFTSLIV","textPreview":"FRILUFTSLIV","textChars":11,"textLines":1,"bbox":[48,260,520,76]}
+{"kind":"textbox","id":"sh/4jyp8zm9","slide":4,"text":"自由地生活在自然中","textPreview":"自由地生活在自然中","textChars":9,"textLines":1,"bbox":[52,340,460,40]}
+{"kind":"textbox","id":"sh/pk7qh4nu","slide":4,"text":"×","textPreview":"×","textChars":1,"textLines":1,"bbox":[610,280,60,70]}
+{"kind":"textbox","id":"sh/2hg76p43","slide":4,"text":"天人合一","textPreview":"天人合一","textChars":4,"textLines":1,"bbox":[760,262,430,72]}
+{"kind":"textbox","id":"sh/3ip8fu5o","slide":4,"text":"人在天地之中，与万物共行","textPreview":"人在天地之中，与万物共行","textChars":12,"textLines":1,"bbox":[710,342,480,40]}
+{"kind":"textbox","id":"sh/cnipczm5","slide":4,"text":"北欧给出一种生活方式，东方给出一种相处之道。","textPreview":"北欧给出一种生活方式，东方给出一种相处之道。","textChars":22,"textLines":1,"bbox":[48,520,1140,56]}
+{"kind":"image","id":"im/jitkreds","slide":4,"name":"","alt":"Atmospheric outdoor campaign visual","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/c0f49p","slide":4,"text":"[Sources]\n- Norwegian Ministry of Climate and Environment, Friluftsliv White Paper (2015–2016).\n- 张岱年：《中国哲学中“天人合一”思想的剖析》，北京大学学报，1985年。\n- OpenAI ImageGen concept visual; source file in project assets/generated/trail-afterglow.png."}
+{"kind":"slide","id":"sl/gfzk2k","slide":5,"title":"FRI · LUFT · LIV","textShapes":15}
+{"kind":"textbox","id":"sh/d8fe1cni","slide":5,"text":"FRI · LUFT · LIV","textPreview":"FRI · LUFT · LIV","textChars":16,"textLines":1,"bbox":[48,46,920,48]}
+{"kind":"shape","id":"sh/ql4fqh4r","slide":5,"bbox":[48,108,98,0]}
+{"kind":"textbox","id":"sh/bmdwzm5c","slide":5,"text":"Friluftsliv：自由地生活在自然之中","textPreview":"Friluftsliv：自由地生活在自然之中","textChars":22,"textLines":1,"bbox":[48,128,1040,62]}
+{"kind":"textbox","id":"sh/0b6xwrm9","slide":5,"text":"不是一次远征，而是一种深植挪威日常的自然生活哲学。","textPreview":"不是一次远征，而是一种深植挪威日常的自然生活哲学。","textChars":25,"textLines":1,"bbox":[48,198,1060,52]}
+{"kind":"textbox","id":"sh/lcfy5wne","slide":5,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/y9ofuh43","slide":5,"text":"HELLY HANSEN 27SS","textPreview":"HELLY HANSEN 27SS","textChars":17,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/zaxw3m5o","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/8fqx0bm5","slide":5,"text":"FRI","textPreview":"FRI","textChars":3,"textLines":1,"bbox":[48,286,320,96]}
+{"kind":"textbox","id":"sh/9gzy9w3q","slide":5,"text":"自由","textPreview":"自由","textChars":2,"textLines":1,"bbox":[48,386,330,42]}
+{"kind":"shape","id":"sh/tgjex0z6","slide":5,"bbox":[48,446,280,0]}
+{"kind":"textbox","id":"sh/sfad4vil","slide":5,"text":"暂时离开目标与压力，在自然中重新获得身心的自由。","textPreview":"暂时离开目标与压力，在自然中重新获得身心的自由。","textChars":24,"textLines":1,"bbox":[48,476,310,94]}
+{"kind":"textbox","id":"sh/7e1cvqh0","slide":5,"text":"LUFT","textPreview":"LUFT","textChars":4,"textLines":1,"bbox":[438,286,320,96]}
+{"kind":"textbox","id":"sh/6d8v2l0f","slide":5,"text":"空气与户外","textPreview":"空气与户外","textChars":5,"textLines":1,"bbox":[438,386,330,42]}
+{"kind":"shape","id":"sh/hkje10z2","slide":5,"bbox":[438,446,280,0]}
+{"kind":"textbox","id":"sh/gjad8vih","slide":5,"text":"走进开放空气，亲身感受风、雨、温度与天气。","textPreview":"走进开放空气，亲身感受风、雨、温度与天气。","textChars":21,"textLines":1,"bbox":[438,476,310,94]}
+{"kind":"textbox","id":"sh/fi1wzahc","slide":5,"text":"LIV","textPreview":"LIV","textChars":3,"textLines":1,"bbox":[828,286,320,96]}
+{"kind":"textbox","id":"sh/uhsv650r","slide":5,"text":"生活，也是生命","textPreview":"生活，也是生命","textChars":7,"textLines":1,"bbox":[828,386,330,42]}
+{"kind":"shape","id":"sh/xozupgzy","slide":5,"bbox":[828,446,280,0]}
+{"kind":"textbox","id":"sh/wnqdwbid","slide":5,"text":"自然不是偶尔抵达的目的地，而是持续发生的生活方式。","textPreview":"自然不是偶尔抵达的目的地，而是持续发生的生活方式。","textChars":25,"textLines":1,"bbox":[828,476,310,94]}
+{"kind":"notes","id":"nt/gfzk2k","slide":5,"text":"[Sources]\n- Norwegian government cultural introduction to Friluftsliv: Fri / Luft / Liv.\n- User-approved worldview copy developed in this project."}
+{"kind":"slide","id":"sl/419wqm","slide":6,"title":"HEAVEN · HUMAN · ONE","textShapes":15}
+{"kind":"textbox","id":"sh/5o7a947e","slide":6,"text":"HEAVEN · HUMAN · ONE","textPreview":"HEAVEN · HUMAN · ONE","textChars":20,"textLines":1,"bbox":[48,46,920,48]}
+{"kind":"shape","id":"sh/ilwrypo3","slide":6,"bbox":[48,108,98,0]}
+{"kind":"textbox","id":"sh/3m587upo","slide":6,"text":"天人合一：人在天地运行之中","textPreview":"天人合一：人在天地运行之中","textChars":13,"textLines":1,"bbox":[48,128,1040,62]}
+{"kind":"textbox","id":"sh/sry94j65","slide":6,"text":"不是消极服从自然，而是理解规律，在其中找到恰当的行动方式。","textPreview":"不是消极服从自然，而是理解规律，在其中找到恰当的行动方式。","textChars":29,"textLines":1,"bbox":[48,198,1060,52]}
+{"kind":"textbox","id":"sh/dc7ad4nq","slide":6,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/qpgr29oz","slide":6,"text":"HELLY HANSEN 27SS","textPreview":"HELLY HANSEN 27SS","textChars":17,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/rqpsbe5k","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/0fi98j61","slide":6,"text":"天","textPreview":"天","textChars":1,"textLines":1,"bbox":[58,280,170,72]}
+{"kind":"shape","id":"sh/1grahonm","slide":6,"bbox":[266,318,90,0]}
+{"kind":"textbox","id":"sh/d8vu9gjy","slide":6,"text":"自然自有秩序","textPreview":"自然自有秩序","textChars":6,"textLines":1,"bbox":[392,280,360,42]}
+{"kind":"textbox","id":"sh/c7mt0b2d","slide":6,"text":"风有方向，水有流势，山有地形。","textPreview":"风有方向，水有流势，山有地形。","textChars":15,"textLines":1,"bbox":[760,283,440,54]}
+{"kind":"textbox","id":"sh/b6dc761s","slide":6,"text":"人","textPreview":"人","textChars":1,"textLines":1,"bbox":[58,396,170,72]}
+{"kind":"shape","id":"sh/q5kby1k7","slide":6,"bbox":[266,434,90,0]}
+{"kind":"textbox","id":"sh/lwvudgju","slide":6,"text":"自然的参与者","textPreview":"自然的参与者","textChars":6,"textLines":1,"bbox":[392,396,360,42]}
+{"kind":"textbox","id":"sh/0vmt4b29","slide":6,"text":"人不凌驾于自然，也不站在自然之外。","textPreview":"人不凌驾于自然，也不站在自然之外。","textChars":17,"textLines":1,"bbox":[760,399,440,54]}
+{"kind":"textbox","id":"sh/zadcbq14","slide":6,"text":"合一","textPreview":"合一","textChars":2,"textLines":1,"bbox":[58,512,170,72]}
+{"kind":"shape","id":"sh/y94b2lkj","slide":6,"bbox":[266,550,90,0]}
+{"kind":"textbox","id":"sh/10ba1wjq","slide":6,"text":"理解、回应、共行","textPreview":"理解、回应、共行","textChars":8,"textLines":1,"bbox":[392,512,360,42]}
+{"kind":"textbox","id":"sh/gz2tsr25","slide":6,"text":"观察变化，因势行动，与天地保持连接。","textPreview":"观察变化，因势行动，与天地保持连接。","textChars":18,"textLines":1,"bbox":[760,515,440,54]}
+{"kind":"notes","id":"nt/419wqm","slide":6,"text":"[Sources]\n- 张岱年：《中国哲学中“天人合一”思想的剖析》，北京大学学报，1985年。\n- Stanford Encyclopedia of Philosophy: Daoism."}
+{"kind":"slide","id":"sl/9er5r0","slide":7,"title":"HH  ×  VCHINA","textShapes":7}
+{"kind":"shape","id":"sh/e1872hkf","slide":7,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/f2hobm10","slide":7,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/o7ap8b2x","slide":7,"text":"WORLDVIEW","textPreview":"WORLDVIEW","textChars":9,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/p8j6hgj2","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/258761kr","slide":7,"text":"NORDIC LIFE. EASTERN WISDOM.","textPreview":"NORDIC LIFE. EASTERN WISDOM.","textChars":28,"textLines":1,"bbox":[48,46,900,46]}
+{"kind":"shape","id":"sh/n61of61c","slide":7,"bbox":[48,112,100,0]}
+{"kind":"textbox","id":"sh/4b65w72d","slide":7,"text":"北欧给出生活方式，\n东方给出相处之道。","textPreview":"北欧给出生活方式， | 东方给出相处之道。","textChars":19,"textLines":2,"bbox":[48,152,840,130]}
+{"kind":"textbox","id":"sh/5cf65c3y","slide":7,"text":"HELLY HANSEN 给出将它付诸实践的专业能力。","textPreview":"HELLY HANSEN 给出将它付诸实践的专业能力。","textChars":27,"textLines":1,"bbox":[48,330,980,56]}
+{"kind":"textbox","id":"sh/pwrytkzy","slide":7,"text":"共生，是世界观。\n专业，是方法。\n自在与鲜活，是结果。","textPreview":"共生，是世界观。 | 专业，是方法。 | 自在与鲜活，是结果。","textChars":27,"textLines":3,"bbox":[744,436,460,150]}
+{"kind":"image","id":"im/83yt03i9","slide":7,"name":"","alt":"Atmospheric outdoor campaign visual","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/9er5r0","slide":7,"text":"[Sources]\n- User-approved strategic synthesis developed in this project.\n- OpenAI ImageGen concept visual; source file in project assets/generated/logbook-hero.png."}
+{"kind":"slide","id":"sl/kn8v0z","slide":8,"title":"HH  ×  VCHINA","textShapes":7}
+{"kind":"shape","id":"sh/q94zep4f","slide":8,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/rad0nu50","slide":8,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/47mhcfm9","slide":8,"text":"BRAND ROLE","textPreview":"BRAND ROLE","textChars":10,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/p8vilknu","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/254zap4j","slide":8,"text":"PROFESSIONALISM MAKES FREEDOM POSSIBLE","textPreview":"PROFESSIONALISM MAKES FREEDOM POSSIBLE","textChars":38,"textLines":1,"bbox":[48,44,1020,48]}
+{"kind":"textbox","id":"sh/36d0ja5o","slide":8,"text":"专业，让自在发生","textPreview":"专业，让自在发生","textChars":8,"textLines":1,"bbox":[48,160,780,76]}
+{"kind":"shape","id":"sh/o3q1ojmt","slide":8,"bbox":[48,260,120,0]}
+{"kind":"textbox","id":"sh/94zixony","slide":8,"text":"真正的自在，不是自然为人让路，\n而是人有能力在自然中找到自己的路。","textPreview":"真正的自在，不是自然为人让路， | 而是人有能力在自然中找到自己的路。","textChars":33,"textLines":2,"bbox":[48,310,840,120]}
+{"kind":"textbox","id":"sh/h8j294ji","slide":8,"text":"专业，不是把自然挡在身体之外；\n而是让人拥有置身其中的底气。","textPreview":"专业，不是把自然挡在身体之外； | 而是让人拥有置身其中的底气。","textChars":30,"textLines":2,"bbox":[650,500,540,96]}
+{"kind":"image","id":"im/of6xofqh","slide":8,"name":"","alt":"Atmospheric outdoor campaign visual","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/kn8v0z","slide":8,"text":"[Sources]\n- User-approved worldview and brand-role copy.\n- OpenAI ImageGen concept visual; source file in project assets/generated/trail-afterglow.png."}
+{"kind":"slide","id":"sl/fpoo0w","slide":9,"title":"ONE WORLDVIEW · TWO ACTIONS","textShapes":13}
+{"kind":"textbox","id":"sh/p0fqd036","slide":9,"text":"ONE WORLDVIEW · TWO ACTIONS","textPreview":"ONE WORLDVIEW · TWO ACTIONS","textChars":27,"textLines":1,"bbox":[48,46,920,48]}
+{"kind":"shape","id":"sh/2xo725kv","slide":9,"bbox":[48,108,98,0]}
+{"kind":"textbox","id":"sh/3yx8balg","slide":9,"text":"一个世界观，统领2027春夏全部内容","textPreview":"一个世界观，统领2027春夏全部内容","textChars":18,"textLines":1,"bbox":[48,128,1040,62]}
+{"kind":"textbox","id":"sh/gvmp0v2p","slide":9,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/hwf6903a","slide":9,"text":"HELLY HANSEN 27SS","textPreview":"HELLY HANSEN 27SS","textChars":17,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/u947ylkj","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/fudo7ql4","slide":9,"text":"文化根源","textPreview":"文化根源","textChars":4,"textLines":1,"bbox":[48,264,200,42]}
+{"kind":"shape","id":"sh/87mpwb2t","slide":9,"bbox":[260,284,130,0]}
+{"kind":"textbox","id":"sh/t8v65g3y","slide":9,"text":"Friluftsliv × 天人合一","textPreview":"Friluftsliv × 天人合一","textChars":18,"textLines":1,"bbox":[420,259,760,54]}
+{"kind":"textbox","id":"sh/t8bulor2","slide":9,"text":"世界观大主题","textPreview":"世界观大主题","textChars":6,"textLines":1,"bbox":[48,346,200,42]}
+{"kind":"shape","id":"sh/s72tcjah","slide":9,"bbox":[260,366,130,0]}
+{"kind":"textbox","id":"sh/r6tcjetw","slide":9,"text":"自在天地间 · LIVE FREE IN THE ELEMENTS","textPreview":"自在天地间 · LIVE FREE IN THE ELEMENTS","textChars":33,"textLines":1,"bbox":[420,341,760,54]}
+{"kind":"textbox","id":"sh/650ba9sb","slide":9,"text":"品牌方法","textPreview":"品牌方法","textChars":4,"textLines":1,"bbox":[48,428,200,42]}
+{"kind":"shape","id":"sh/54ruh4bq","slide":9,"bbox":[260,448,130,0]}
+{"kind":"textbox","id":"sh/4jit8zal","slide":9,"text":"Trust by Professional · 专业，让自在发生","textPreview":"Trust by Professional · 专业，让自在发生","textChars":32,"textLines":1,"bbox":[420,423,760,54]}
+{"kind":"textbox","id":"sh/ji9cfet0","slide":9,"text":"年度行动","textPreview":"年度行动","textChars":4,"textLines":1,"bbox":[48,510,200,42]}
+{"kind":"shape","id":"sh/ih0b69sf","slide":9,"bbox":[260,530,130,0]}
+{"kind":"textbox","id":"sh/xgrud4bu","slide":9,"text":"向更远 · 赴新域","textPreview":"向更远 · 赴新域","textChars":9,"textLines":1,"bbox":[420,505,760,54]}
+{"kind":"notes","id":"nt/fpoo0w","slide":9,"text":"[Sources]\n- User-approved campaign architecture based on HH 27SS Shooting Brief."}
+{"kind":"slide","id":"sl/w1b2lc","slide":10,"title":"HH  ×  VCHINA","textShapes":10}
+{"kind":"shape","id":"sh/214fm50b","slide":10,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/n2xwfahw","slide":10,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/wr6xszid","slide":10,"text":"8 LOOKS · ONE UNIVERSE","textPreview":"8 LOOKS · ONE UNIVERSE","textChars":22,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/xsfelkzy","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/a5ofqp07","slide":10,"text":"8 LOOKS · 3 RELATIONSHIPS","textPreview":"8 LOOKS · 3 RELATIONSHIPS","textChars":25,"textLines":1,"bbox":[48,50,1050,76]}
+{"kind":"shape","id":"sh/b6xwjuhs","slide":10,"bbox":[48,152,118,0]}
+{"kind":"textbox","id":"sh/svmdgvi9","slide":10,"text":"8套Look，不是8个产品答案","textPreview":"8套Look，不是8个产品答案","textChars":15,"textLines":1,"bbox":[48,196,920,66]}
+{"kind":"textbox","id":"sh/dwve90ze","slide":10,"text":"它们是“自在天地间”世界观下，\n人与自然建立关系的8种方式。","textPreview":"它们是“自在天地间”世界观下， | 人与自然建立关系的8种方式。","textChars":30,"textLines":2,"bbox":[48,286,790,108]}
+{"kind":"textbox","id":"sh/98bups7y","slide":10,"text":"海，是来处","textPreview":"海，是来处","textChars":5,"textLines":1,"bbox":[48,510,300,46]}
+{"kind":"textbox","id":"sh/872dg7qd","slide":10,"text":"野，是日常","textPreview":"野，是日常","textChars":5,"textLines":1,"bbox":[426,510,300,46]}
+{"kind":"textbox","id":"sh/76tcn2ps","slide":10,"text":"地势，是节奏","textPreview":"地势，是节奏","textChars":6,"textLines":1,"bbox":[812,510,360,46]}
+{"kind":"shape","id":"sh/m5kbex87","slide":10,"bbox":[48,578,1120,0]}
+{"kind":"textbox","id":"sh/hwvutc7u","slide":10,"text":"不是把自然变成背景，而是让每套Look成为人与自然建立关系的证据。","textPreview":"不是把自然变成背景，而是让每套Look成为人与自然建立关系的证据。","textChars":33,"textLines":1,"bbox":[48,606,1080,38]}
+{"kind":"image","id":"im/8zqdcz61","slide":10,"name":"","alt":"Atmospheric outdoor campaign visual","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/w1b2lc","slide":10,"text":"[Sources]\n- User-approved ‘自在天地间’ worldview developed in this project.\n- OpenAI ImageGen concept visual; source file in project assets/generated/trail-afterglow.png."}
+{"kind":"slide","id":"sl/jnywqb","slide":11,"title":"ONE UNIVERSE · THREE RELATIONSHIPS","textShapes":21}
+{"kind":"textbox","id":"sh/rqhob69k","slide":11,"text":"ONE UNIVERSE · THREE RELATIONSHIPS","textPreview":"ONE UNIVERSE · THREE RELATIONSHIPS","textChars":34,"textLines":1,"bbox":[48,46,920,48]}
+{"kind":"shape","id":"sh/crqp4ba5","slide":11,"bbox":[48,108,98,0]}
+{"kind":"textbox","id":"sh/dsz6dgrq","slide":11,"text":"一套世界观，三种与自然相处的方式","textPreview":"一套世界观，三种与自然相处的方式","textChars":16,"textLines":1,"bbox":[48,128,1040,62]}
+{"kind":"textbox","id":"sh/ets76lsb","slide":11,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/zu1ofq9w","slide":11,"text":"HELLY HANSEN 27SS","textPreview":"HELLY HANSEN 27SS","textChars":17,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/0vap8vah","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"shape","id":"sh/1wjqh0r2","slide":11,"bbox":[48,270,348,318]}
+{"kind":"textbox","id":"sh/uxo7uhs7","slide":11,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[72,292,54,36]}
+{"kind":"textbox","id":"sh/fyxo3mts","slide":11,"text":"SEA AS ORIGIN","textPreview":"SEA AS ORIGIN","textChars":13,"textLines":1,"bbox":[72,344,300,46]}
+{"kind":"textbox","id":"sh/fy9o7el0","slide":11,"text":"海，是来处","textPreview":"海，是来处","textChars":5,"textLines":1,"bbox":[72,404,300,44]}
+{"kind":"shape","id":"sh/ex07y9kf","slide":11,"bbox":[72,466,86,0]}
+{"kind":"textbox","id":"sh/10r6943q","slide":11,"text":"01 · 04 · 07","textPreview":"01 · 04 · 07","textChars":12,"textLines":1,"bbox":[72,492,300,28]}
+{"kind":"textbox","id":"sh/gzip0j2l","slide":11,"text":"从品牌诞生的航海根源，\n转译为当代风格与日常生活。","textPreview":"从品牌诞生的航海根源， | 转译为当代风格与日常生活。","textChars":25,"textLines":2,"bbox":[72,534,300,54]}
+{"kind":"shape","id":"sh/ru9o3ulo","slide":11,"bbox":[444,270,348,318]}
+{"kind":"textbox","id":"sh/6tg7up43","slide":11,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[468,292,54,36]}
+{"kind":"textbox","id":"sh/twr6543u","slide":11,"text":"NATURE AS LIFE","textPreview":"NATURE AS LIFE","textChars":14,"textLines":1,"bbox":[468,344,300,46]}
+{"kind":"textbox","id":"sh/svipwz29","slide":11,"text":"野，是日常","textPreview":"野，是日常","textChars":5,"textLines":1,"bbox":[468,404,300,44]}
+{"kind":"shape","id":"sh/j6pozuls","slide":11,"bbox":[468,466,86,0]}
+{"kind":"textbox","id":"sh/i5gnqp47","slide":11,"text":"02 · 03 · 06","textPreview":"02 · 03 · 06","textChars":12,"textLines":1,"bbox":[468,492,300,28]}
+{"kind":"textbox","id":"sh/m1w7ipoz","slide":11,"text":"天气、森林与溪流，\n不是远方，而是每日生活。","textPreview":"天气、森林与溪流， | 不是远方，而是每日生活。","textChars":22,"textLines":2,"bbox":[468,534,300,54]}
+{"kind":"shape","id":"sh/7258bu5k","slide":11,"bbox":[840,270,348,318]}
+{"kind":"textbox","id":"sh/83ypkf65","slide":11,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[864,292,54,36]}
+{"kind":"textbox","id":"sh/947qdknq","slide":11,"text":"TERRAIN AS RHYTHM","textPreview":"TERRAIN AS RHYTHM","textChars":17,"textLines":1,"bbox":[864,344,300,46]}
+{"kind":"textbox","id":"sh/upg7mpob","slide":11,"text":"地势，是节奏","textPreview":"地势，是节奏","textChars":6,"textLines":1,"bbox":[864,404,300,44]}
+{"kind":"shape","id":"sh/vqp8fu5w","slide":11,"bbox":[864,466,86,0]}
+{"kind":"textbox","id":"sh/wrypoz61","slide":11,"text":"05 · 08","textPreview":"05 · 08","textChars":7,"textLines":1,"bbox":[864,492,300,28]}
+{"kind":"textbox","id":"sh/hs7qh4nm","slide":11,"text":"坡度提出问题，\n脚步与装备持续回应。","textPreview":"坡度提出问题， | 脚步与装备持续回应。","textChars":18,"textLines":2,"bbox":[864,534,300,54]}
+{"kind":"textbox","id":"sh/itg7q9o7","slide":11,"text":"从来处，到生活，再到行动节奏——8套Look形成一条完整的品牌关系链。","textPreview":"从来处，到生活，再到行动节奏——8套Look形成一条完整的品牌关系链。","textChars":35,"textLines":1,"bbox":[48,622,1140,36]}
+{"kind":"notes","id":"nt/jnywqb","slide":11,"text":"[Sources]\n- User-provided HH 27SS Ambassador Shooting Brief, p.18 (8-look list).\n- User-approved ‘自在天地间’ worldview developed in this project."}
+{"kind":"slide","id":"sl/61o9lv","slide":12,"title":"HH  ×  VCHINA","textShapes":19}
+{"kind":"shape","id":"sh/krmlgn6x","slide":12,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/lcf2987i","slide":12,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/al43atov","slide":12,"text":"LOOKS 01 · 04 · 07","textPreview":"LOOKS 01 · 04 · 07","textChars":18,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/bmdk3yp0","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/wnmlc36l","slide":12,"text":"SEA AS ORIGIN","textPreview":"SEA AS ORIGIN","textChars":13,"textLines":1,"bbox":[48,42,760,58]}
+{"kind":"textbox","id":"sh/xov25876","slide":12,"text":"海，是来处","textPreview":"海，是来处","textChars":5,"textLines":1,"bbox":[48,120,580,62]}
+{"kind":"shape","id":"sh/2hkj6toj","slide":12,"bbox":[48,204,108,0]}
+{"kind":"textbox","id":"sh/nitkzyp4","slide":12,"text":"HH以海为生。三套Look不是三个航海造型，\n而是150年航海基因的三次转译。","textPreview":"HH以海为生。三套Look不是三个航海造型， | 而是150年航海基因的三次转译。","textChars":39,"textLines":2,"bbox":[48,236,770,80]}
+{"kind":"textbox","id":"sh/fy14ra1w","slide":12,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[48,370,56,34]}
+{"kind":"textbox","id":"sh/exsny5kb","slide":12,"text":"历史","textPreview":"历史","textChars":2,"textLines":1,"bbox":[122,370,78,34]}
+{"kind":"textbox","id":"sh/1k36tkj2","slide":12,"text":"经典航海150周年艺术家联名","textPreview":"经典航海150周年艺术家联名","textChars":14,"textLines":1,"bbox":[220,370,360,34]}
+{"kind":"textbox","id":"sh/0za50f2h","slide":12,"text":"以帆、北极星与Crew，读懂共同方向","textPreview":"以帆、北极星与Crew，读懂共同方向","textChars":18,"textLines":1,"bbox":[620,370,540,34]}
+{"kind":"shape","id":"sh/nmlovu1s","slide":12,"bbox":[48,418,1112,0]}
+{"kind":"textbox","id":"sh/2lcn2pk7","slide":12,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[48,452,56,34]}
+{"kind":"textbox","id":"sh/po36xkjy","slide":12,"text":"当代","textPreview":"当代","textChars":2,"textLines":1,"bbox":[122,452,78,34]}
+{"kind":"textbox","id":"sh/onu54z2d","slide":12,"text":"航海潮流150周年限定","textPreview":"航海潮流150周年限定","textChars":11,"textLines":1,"bbox":[220,452,360,34]}
+{"kind":"textbox","id":"sh/3qh4jqlo","slide":12,"text":"让专业遗产进入当代风格语境","textPreview":"让专业遗产进入当代风格语境","textChars":13,"textLines":1,"bbox":[620,452,540,34]}
+{"kind":"shape","id":"sh/ip8nqlk3","slide":12,"bbox":[48,500,1112,0]}
+{"kind":"textbox","id":"sh/6x0zex83","slide":12,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[48,534,56,34]}
+{"kind":"textbox","id":"sh/7y90n2p8","slide":12,"text":"日常","textPreview":"日常","textChars":2,"textLines":1,"bbox":[122,534,78,34]}
+{"kind":"textbox","id":"sh/szihg7qt","slide":12,"text":"航海生活方式","textPreview":"航海生活方式","textChars":6,"textLines":1,"bbox":[220,534,360,34]}
+{"kind":"textbox","id":"sh/t0rips7e","slide":12,"text":"让航海基因离开甲板，进入日常","textPreview":"让航海基因离开甲板，进入日常","textChars":14,"textLines":1,"bbox":[620,534,540,34]}
+{"kind":"shape","id":"sh/ytgzad8r","slide":12,"bbox":[48,582,1112,0]}
+{"kind":"textbox","id":"sh/jupgjipc","slide":12,"text":"从航海诞生，到当代风格，再到日常生活。","textPreview":"从航海诞生，到当代风格，再到日常生活。","textChars":19,"textLines":1,"bbox":[48,628,1110,34]}
+{"kind":"image","id":"im/u1076l8b","slide":12,"name":"","alt":"Atmospheric outdoor campaign visual","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/61o9lv","slide":12,"text":"[Sources]\n- User-provided HH Shooting Brief, pp.19–25 and look list.\n- OpenAI ImageGen concept visual; source file in project assets/generated/sailing-crew-hero.png."}
+{"kind":"slide","id":"sl/vqcrrk","slide":13,"title":"HH  ×  VCHINA","textShapes":19}
+{"kind":"shape","id":"sh/87yd0jmd","slide":13,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/987e9ony","slide":13,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/yhwvu94b","slide":13,"text":"LOOKS 02 · 03 · 06","textPreview":"LOOKS 02 · 03 · 06","textChars":18,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/zi5c3e5w","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/0jedwjm1","slide":13,"text":"NATURE AS LIFE","textPreview":"NATURE AS LIFE","textChars":14,"textLines":1,"bbox":[48,42,760,58]}
+{"kind":"textbox","id":"sh/lknu5onm","slide":13,"text":"野，是日常","textPreview":"野，是日常","textChars":5,"textLines":1,"bbox":[48,120,580,62]}
+{"kind":"shape","id":"sh/qdcvq94z","slide":13,"bbox":[48,204,108,0]}
+{"kind":"textbox","id":"sh/re5cze5k","slide":13,"text":"Friluftsliv不是偶尔远征，\n而是自由地生活在自然中。","textPreview":"Friluftsliv不是偶尔远征， | 而是自由地生活在自然中。","textChars":31,"textLines":2,"bbox":[48,236,650,80]}
+{"kind":"shape","id":"sh/72xo3e1w","slide":13,"bbox":[48,372,348,200]}
+{"kind":"textbox","id":"sh/mh4na9kb","slide":13,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[70,390,52,32]}
+{"kind":"textbox","id":"sh/94f65oj2","slide":13,"text":"天气","textPreview":"天气","textChars":2,"textLines":1,"bbox":[132,390,90,32]}
+{"kind":"textbox","id":"sh/8365cj2h","slide":13,"text":"徒步1","textPreview":"徒步1","textChars":3,"textLines":1,"bbox":[70,438,290,40]}
+{"kind":"shape","id":"sh/v6xo7y1s","slide":13,"bbox":[70,492,70,0]}
+{"kind":"textbox","id":"sh/u5onetk7","slide":13,"text":"在真实天气中保持判断与从容","textPreview":"在真实天气中保持判断与从容","textChars":13,"textLines":1,"bbox":[70,516,300,44]}
+{"kind":"shape","id":"sh/h8f698jy","slide":13,"bbox":[444,372,348,200]}
+{"kind":"textbox","id":"sh/w765g32d","slide":13,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[466,390,52,32]}
+{"kind":"textbox","id":"sh/bad4vulo","slide":13,"text":"日常","textPreview":"日常","textChars":2,"textLines":1,"bbox":[528,390,90,32]}
+{"kind":"textbox","id":"sh/q9kn2pk3","slide":13,"text":"徒步2","textPreview":"徒步2","textChars":3,"textLines":1,"bbox":[466,438,290,40]}
+{"kind":"shape","id":"sh/ehczq183","slide":13,"bbox":[466,492,70,0]}
+{"kind":"textbox","id":"sh/f2l0z6po","slide":13,"text":"从远征叙事回到日常自然生活","textPreview":"从远征叙事回到日常自然生活","textChars":13,"textLines":1,"bbox":[466,516,300,44]}
+{"kind":"shape","id":"sh/03uhsbqt","slide":13,"bbox":[840,372,348,200]}
+{"kind":"textbox","id":"sh/143i1w7e","slide":13,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[862,390,52,32]}
+{"kind":"textbox","id":"sh/qdszmh8r","slide":13,"text":"流动","textPreview":"流动","textChars":2,"textLines":1,"bbox":[924,390,90,32]}
+{"kind":"textbox","id":"sh/relgvmpc","slide":13,"text":"溯溪","textPreview":"溯溪","textChars":2,"textLines":1,"bbox":[862,438,290,40]}
+{"kind":"shape","id":"sh/sfuhorqx","slide":13,"bbox":[862,492,70,0]}
+{"kind":"textbox","id":"sh/dg3ixw7i","slide":13,"text":"回应水势，在流动中寻找路径","textPreview":"回应水势，在流动中寻找路径","textChars":13,"textLines":1,"bbox":[862,516,300,44]}
+{"kind":"textbox","id":"sh/i9szih8v","slide":13,"text":"自然不是偶尔抵达的远方，而是可以每天发生的生活。","textPreview":"自然不是偶尔抵达的远方，而是可以每天发生的生活。","textChars":24,"textLines":1,"bbox":[48,618,1138,38]}
+{"kind":"image","id":"im/e1kv6x8n","slide":13,"name":"","alt":"Atmospheric outdoor campaign visual","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/vqcrrk","slide":13,"text":"[Sources]\n- User-provided HH Shooting Brief, pp.30–32 (Hiking and Stream looks).\n- Norwegian Friluftsliv cultural concept used in the approved campaign worldview.\n- OpenAI ImageGen concept visual; source file in project assets/generated/trail-afterglow.png."}
+{"kind":"slide","id":"sl/37mial","slide":14,"title":"HH  ×  VCHINA","textShapes":15}
+{"kind":"shape","id":"sh/6lkbm9w3","slide":14,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/7mdcfexo","slide":14,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/kz2tkzed","slide":14,"text":"LOOKS 05 · 08","textPreview":"LOOKS 05 · 08","textChars":13,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/5kbud4fy","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/yxkbipw7","slide":14,"text":"TERRAIN AS RHYTHM","textPreview":"TERRAIN AS RHYTHM","textChars":17,"textLines":1,"bbox":[48,42,880,58]}
+{"kind":"textbox","id":"sh/jytcbuxs","slide":14,"text":"地势，是节奏","textPreview":"地势，是节奏","textChars":6,"textLines":1,"bbox":[48,120,620,62]}
+{"kind":"shape","id":"sh/4f6dw3eh","slide":14,"bbox":[48,204,108,0]}
+{"kind":"textbox","id":"sh/pgfupof2","slide":14,"text":"山野不是等待被征服的赛道。\n坡度、碎石、水面与身体，共同决定每一步。","textPreview":"山野不是等待被征服的赛道。 | 坡度、碎石、水面与身体，共同决定每一步。","textChars":34,"textLines":2,"bbox":[48,236,820,86]}
+{"kind":"shape","id":"sh/pk76x0by","slide":14,"bbox":[48,386,518,184]}
+{"kind":"textbox","id":"sh/4jyp4vad","slide":14,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[74,408,62,34]}
+{"kind":"textbox","id":"sh/3ipovqts","slide":14,"text":"感知","textPreview":"感知","textChars":2,"textLines":1,"bbox":[148,408,100,34]}
+{"kind":"textbox","id":"sh/2hw72ls7","slide":14,"text":"越野跑","textPreview":"越野跑","textChars":3,"textLines":1,"bbox":[74,458,220,42]}
+{"kind":"textbox","id":"sh/hgn6t0b2","slide":14,"text":"让脚步回应地势与身体节奏","textPreview":"让脚步回应地势与身体节奏","textChars":12,"textLines":1,"bbox":[74,520,420,34]}
+{"kind":"shape","id":"sh/gfe50vah","slide":14,"bbox":[614,386,518,184]}
+{"kind":"textbox","id":"sh/fe5orqtw","slide":14,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[640,408,62,34]}
+{"kind":"textbox","id":"sh/udwnylsb","slide":14,"text":"能力","textPreview":"能力","textChars":2,"textLines":1,"bbox":[714,408,100,34]}
+{"kind":"textbox","id":"sh/1cr65kb6","slide":14,"text":"越野跑场景","textPreview":"越野跑场景","textChars":5,"textLines":1,"bbox":[640,458,260,42]}
+{"kind":"textbox","id":"sh/0bipcfal","slide":14,"text":"以专业装备进入新的运动领域","textPreview":"以专业装备进入新的运动领域","textChars":13,"textLines":1,"bbox":[640,520,420,34]}
+{"kind":"textbox","id":"sh/krahonmt","slide":14,"text":"与野同步 · 赴新域","textPreview":"与野同步 · 赴新域","textChars":10,"textLines":1,"bbox":[48,618,1080,38]}
+{"kind":"image","id":"im/wre1sbyx","slide":14,"name":"","alt":"Atmospheric outdoor campaign visual","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/37mial","slide":14,"text":"[Sources]\n- User-provided HH Shooting Brief, pp.27–29 (Dearacer product communication).\n- OpenAI ImageGen concept visual; source file in project assets/generated/trail-hero.png."}
+{"kind":"slide","id":"sl/p8mf2a","slide":15,"title":"HH  ×  VCHINA","textShapes":11}
+{"kind":"shape","id":"sh/ra14zat4","slide":15,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/69sn6psz","slide":15,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/103m54bm","slide":15,"text":"VISUAL LANGUAGE","textPreview":"VISUAL LANGUAGE","textChars":15,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/gza5cza1","slide":15,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/fe143utg","slide":15,"text":"REAL ELEMENTS. REAL MOVEMENT.","textPreview":"REAL ELEMENTS. REAL MOVEMENT.","textChars":29,"textLines":1,"bbox":[48,44,900,48]}
+{"kind":"textbox","id":"sh/edsnapsv","slide":15,"text":"不制造景观，让真实自然成为叙事力量","textPreview":"不制造景观，让真实自然成为叙事力量","textChars":17,"textLines":1,"bbox":[48,130,850,58]}
+{"kind":"textbox","id":"sh/p43694bi","slide":15,"text":"真实天气","textPreview":"真实天气","textChars":4,"textLines":1,"bbox":[50,532,206,48]}
+{"kind":"textbox","id":"sh/o3u5gzax","slide":15,"text":"真实动作","textPreview":"真实动作","textChars":4,"textLines":1,"bbox":[286,532,206,48]}
+{"kind":"textbox","id":"sh/m50f2tkf","slide":15,"text":"极简构图","textPreview":"极简构图","textChars":4,"textLines":1,"bbox":[522,532,206,48]}
+{"kind":"textbox","id":"sh/769wby10","slide":15,"text":"北欧疏离","textPreview":"北欧疏离","textChars":4,"textLines":1,"bbox":[758,532,206,48]}
+{"kind":"textbox","id":"sh/87ix432l","slide":15,"text":"专业高端","textPreview":"专业高端","textChars":4,"textLines":1,"bbox":[994,532,206,48]}
+{"kind":"textbox","id":"sh/98red8j6","slide":15,"text":"自然不做背景；风、浪、地势与水流都是行动的一部分。","textPreview":"自然不做背景；风、浪、地势与水流都是行动的一部分。","textChars":25,"textLines":1,"bbox":[48,612,900,42]}
+{"kind":"image","id":"im/h0ra50zi","slide":15,"name":"","alt":"Atmospheric outdoor campaign visual","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/p8mf2a","slide":15,"text":"[Sources]\n- User-provided HH 27SS Ambassador Shooting Brief, pp.35–40 (Visual Guideline).\n- OpenAI ImageGen concept visual; source file in project assets/generated/trail-afterglow.png."}
+{"kind":"slide","id":"sl/tt25el","slide":16,"title":"HH  ×  VCHINA","textShapes":7}
+{"kind":"shape","id":"sh/9kra9wni","slide":16,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/8jitgrmd","slide":16,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/vmtsb65o","slide":16,"text":"FILM 01 · SAILING HERITAGE","textPreview":"FILM 01 · SAILING HERITAGE","textChars":26,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/ulkbi143","slide":16,"text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/hobadwnu","slide":16,"text":"SAIL AS ONE","textPreview":"SAIL AS ONE","textChars":11,"textLines":1,"bbox":[48,54,800,84]}
+{"kind":"textbox","id":"sh/gn2tkrm9","slide":16,"text":"与海同舟","textPreview":"与海同舟","textChars":4,"textLines":1,"bbox":[48,170,520,82]}
+{"kind":"shape","id":"sh/3qtcf6l0","slide":16,"bbox":[48,282,120,0]}
+{"kind":"textbox","id":"sh/ipkbm14f","slide":16,"text":"向远，从来不是一个人的抵达。","textPreview":"向远，从来不是一个人的抵达。","textChars":14,"textLines":1,"bbox":[48,332,850,60]}
+{"kind":"textbox","id":"sh/cz6xormd","slide":16,"text":"FILM 01 · 向更远","textPreview":"FILM 01 · 向更远","textChars":13,"textLines":1,"bbox":[48,604,420,28]}
+{"kind":"image","id":"im/zehsj61w","slide":16,"name":"","alt":"Atmospheric outdoor campaign visual","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/tt25el","slide":16,"text":"[Sources]\n- User-provided HH Shooting Brief, pp.19–25.\n- OpenAI ImageGen concept visual; source file in project assets/generated/sailing-crew-hero.png."}
+{"kind":"slide","id":"sl/jn36yj","slide":17,"title":"THE CREW IS THE HERO","textShapes":8}
+{"kind":"textbox","id":"sh/cnm943i1","slide":17,"text":"THE CREW IS THE HERO","textPreview":"THE CREW IS THE HERO","textChars":20,"textLines":1,"bbox":[48,46,920,48]}
+{"kind":"shape","id":"sh/bmd8vyhw","slide":17,"bbox":[48,108,98,0]}
+{"kind":"textbox","id":"sh/ql4r2d0b","slide":17,"text":"主角不是某一个人，而是整个Crew","textPreview":"主角不是某一个人，而是整个Crew","textChars":17,"textLines":1,"bbox":[48,128,1040,62]}
+{"kind":"textbox","id":"sh/pkvqt8zq","slide":17,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/ojmp03i5","slide":17,"text":"HELLY HANSEN 27SS","textPreview":"HELLY HANSEN 27SS","textChars":17,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/3it8ryhk","slide":17,"text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/2hk7yt0z","slide":17,"text":"海上没有个人英雄。","textPreview":"海上没有个人英雄。","textChars":9,"textLines":1,"bbox":[48,276,580,70]}
+{"kind":"textbox","id":"sh/1gbqpoze","slide":17,"text":"风决定条件，海浪改变航程，北极星确认方向；\n每一名Crew，都在自己的位置上完成判断、配合与承担。","textPreview":"风决定条件，海浪改变航程，北极星确认方向； | 每一名Crew，都在自己的位置上完成判断、配合与承担。","textChars":49,"textLines":2,"bbox":[48,366,670,118]}
+{"kind":"shape","id":"sh/gf2pwji9","slide":17,"bbox":[792,276,340,0]}
+{"kind":"textbox","id":"sh/qd4filk3","slide":17,"text":"王一博不是带领所有人的船长。\n他进入真实Crew，\n成为航行中不可或缺的一员。","textPreview":"王一博不是带领所有人的船长。 | 他进入真实Crew， | 成为航行中不可或缺的一员。","textChars":39,"textLines":3,"bbox":[792,314,410,170]}
+{"kind":"notes","id":"nt/jn36yj","slide":17,"text":"[Sources]\n- User-provided HH Shooting Brief, pp.19–20 (Crew spirit and ambassador role).\n- User-approved Sailing concept: 与海同舟."}
+{"kind":"slide","id":"sl/8dezj0","slide":18,"title":"HH  ×  VCHINA","textShapes":10}
+{"kind":"shape","id":"sh/adg3id4j","slide":18,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/vep4ril4","slide":18,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/8bylg3md","slide":18,"text":"FILM 01 · IDEA","textPreview":"FILM 01 · IDEA","textChars":14,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/9c7mp83y","slide":18,"text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/mpg3et4n","slide":18,"text":"WITH EACH OTHER. WITH THE SEA.","textPreview":"WITH EACH OTHER. WITH THE SEA.","textChars":30,"textLines":1,"bbox":[48,44,900,48]}
+{"kind":"textbox","id":"sh/nap4nyl8","slide":18,"text":"“与海同舟”的两层关系","textPreview":"“与海同舟”的两层关系","textChars":11,"textLines":1,"bbox":[48,136,680,54]}
+{"kind":"textbox","id":"sh/0nelcjmh","slide":18,"text":"人与人同舟","textPreview":"人与人同舟","textChars":5,"textLines":1,"bbox":[48,284,430,52]}
+{"kind":"textbox","id":"sh/lonmlo32","slide":18,"text":"Crew彼此信任、共同判断、共同承担。","textPreview":"Crew彼此信任、共同判断、共同承担。","textChars":19,"textLines":1,"bbox":[48,350,500,58]}
+{"kind":"textbox","id":"sh/18n61cve","slide":18,"text":"人与自然同舟","textPreview":"人与自然同舟","textChars":6,"textLines":1,"bbox":[680,284,430,52]}
+{"kind":"textbox","id":"sh/07upsrut","slide":18,"text":"不对抗海洋，而是理解风浪、借势成航。","textPreview":"不对抗海洋，而是理解风浪、借势成航。","textChars":18,"textLines":1,"bbox":[680,350,500,58]}
+{"kind":"textbox","id":"sh/f6lozmd8","slide":18,"text":"自在不是一个人在海上的自由，\n而是一群人在真实风浪中共同前进的从容。","textPreview":"自在不是一个人在海上的自由， | 而是一群人在真实风浪中共同前进的从容。","textChars":34,"textLines":2,"bbox":[280,510,720,88]}
+{"kind":"image","id":"im/kbe9kr2l","slide":18,"name":"","alt":"Atmospheric outdoor campaign visual","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/8dezj0","slide":18,"text":"[Sources]\n- User-approved Sailing subtheme explanation.\n- OpenAI ImageGen concept visual; source file in project assets/generated/sailing-crew-hero.png."}
+{"kind":"slide","id":"sl/ri76hm","slide":19,"title":"ART BECOMES ACTION","textShapes":11}
+{"kind":"textbox","id":"sh/zqlcz2dg","slide":19,"text":"ART BECOMES ACTION","textPreview":"ART BECOMES ACTION","textChars":18,"textLines":1,"bbox":[48,46,920,48]}
+{"kind":"shape","id":"sh/0rud87e1","slide":19,"bbox":[48,108,98,0]}
+{"kind":"textbox","id":"sh/1s3u1cvm","slide":19,"text":"艺术家图案，不是装饰，而是一套航海图腾","textPreview":"艺术家图案，不是装饰，而是一套航海图腾","textChars":19,"textLines":1,"bbox":[48,128,1040,62]}
+{"kind":"textbox","id":"sh/mtcvahw7","slide":19,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/nulc3mds","slide":19,"text":"HELLY HANSEN 27SS","textPreview":"HELLY HANSEN 27SS","textChars":17,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/ovedcrex","slide":19,"text":"19","textPreview":"19","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/axwvehw3","slide":19,"text":"帆","textPreview":"帆","textChars":1,"textLines":1,"bbox":[654,270,180,44]}
+{"kind":"textbox","id":"sh/bi5c7mdo","slide":19,"text":"承载HH 150年的航海故事","textPreview":"承载HH 150年的航海故事","textChars":14,"textLines":1,"bbox":[850,272,350,58]}
+{"kind":"shape","id":"sh/n6lwbq58","slide":19,"bbox":[654,342,546,0]}
+{"kind":"textbox","id":"sh/m5cvilon","slide":19,"text":"北极星","textPreview":"北极星","textChars":3,"textLines":1,"bbox":[654,372,180,44]}
+{"kind":"textbox","id":"sh/983edgny","slide":19,"text":"所有Crew共同确认的方向","textPreview":"所有Crew共同确认的方向","textChars":13,"textLines":1,"bbox":[850,374,350,58]}
+{"kind":"shape","id":"sh/o7udkv6d","slide":19,"bbox":[654,444,546,0]}
+{"kind":"textbox","id":"sh/z21w765w","slide":19,"text":"夜光海浪","textPreview":"夜光海浪","textChars":4,"textLines":1,"bbox":[654,474,180,44]}
+{"kind":"textbox","id":"sh/e1sve1ob","slide":19,"text":"保存白昼的光，在未知中继续指引","textPreview":"保存白昼的光，在未知中继续指引","textChars":15,"textLines":1,"bbox":[850,476,350,58]}
+{"kind":"shape","id":"sh/143e9gn2","slide":19,"bbox":[654,546,546,0]}
+{"kind":"image","id":"im/czi98vyh","slide":19,"name":"","alt":"Sailing TVC key message and artist collaboration visual","bbox":[48,252,540,316]}
+{"kind":"notes","id":"nt/ri76hm","slide":19,"text":"[Sources]\n- User-provided HH Shooting Brief, p.20 (sail and North Star motif meanings).\n- User-provided HH Shooting Brief, p.22 (Nordic artist collaboration and glow-wave treatment)."}
+{"kind":"slide","id":"sl/m7faxn","slide":20,"title":"HH  ×  VCHINA","textShapes":7}
+{"kind":"shape","id":"sh/03excbul","slide":20,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/1ony5gb6","slide":20,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/2pwfelcr","slide":20,"text":"FILM 01 · CORE DRAMA","textPreview":"FILM 01 · CORE DRAMA","textChars":20,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/nqpg7qtc","slide":20,"text":"20","textPreview":"20","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/oryxgvux","slide":20,"text":"FURTHER, MADE TOGETHER","textPreview":"FURTHER, MADE TOGETHER","textChars":22,"textLines":1,"bbox":[48,46,900,48]}
+{"kind":"textbox","id":"sh/9s7y9gbi","slide":20,"text":"远方，由所有人共同完成","textPreview":"远方，由所有人共同完成","textChars":11,"textLines":1,"bbox":[48,142,900,62]}
+{"kind":"shape","id":"sh/itcf2hcn","slide":20,"bbox":[48,232,120,0]}
+{"kind":"textbox","id":"sh/3ulwvmd8","slide":20,"text":"艺术家完成图案的第一笔，\n风与海留下下一笔，\nCrew用行动完成整件作品。","textPreview":"艺术家完成图案的第一笔， | 风与海留下下一笔， | Crew用行动完成整件作品。","textChars":37,"textLines":3,"bbox":[48,288,620,166]}
+{"kind":"textbox","id":"sh/ry1cfi5g","slide":20,"text":"王一博，也是其中的一笔。","textPreview":"王一博，也是其中的一笔。","textChars":12,"textLines":1,"bbox":[748,516,440,54]}
+{"kind":"image","id":"im/uxcz6l0v","slide":20,"name":"","alt":"Atmospheric outdoor campaign visual","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/m7faxn","slide":20,"text":"[Sources]\n- User-approved Sailing concept synthesis.\n- OpenAI ImageGen concept visual; source file in project assets/generated/sailing-hands.png."}
+{"kind":"slide","id":"sl/hnps91","slide":21,"title":"FOUR MOVEMENTS","textShapes":18}
+{"kind":"textbox","id":"sh/hszuxwf2","slide":21,"text":"FOUR MOVEMENTS","textPreview":"FOUR MOVEMENTS","textChars":14,"textLines":1,"bbox":[48,46,920,48]}
+{"kind":"shape","id":"sh/up8b21gr","slide":21,"bbox":[48,108,98,0]}
+{"kind":"textbox","id":"sh/fqhcvmxw","slide":21,"text":"一次航行，四次关系推进","textPreview":"一次航行，四次关系推进","textChars":11,"textLines":1,"bbox":[48,128,1040,62]}
+{"kind":"textbox","id":"sh/snqt0ryl","slide":21,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/tozutwf6","slide":21,"text":"HELLY HANSEN 27SS","textPreview":"HELLY HANSEN 27SS","textChars":17,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/6lobyhgf","slide":21,"text":"21","textPreview":"21","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/7mhsrmh0","slide":21,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[48,276,90,50]}
+{"kind":"textbox","id":"sh/cjatcbyp","slide":21,"text":"入船","textPreview":"入船","textChars":2,"textLines":1,"bbox":[48,342,240,50]}
+{"kind":"shape","id":"sh/dkju5gfa","slide":21,"bbox":[48,410,238,0]}
+{"kind":"textbox","id":"sh/hwj29of2","slide":21,"text":"王一博进入Crew，学习位置与规则。","textPreview":"王一博进入Crew，学习位置与规则。","textChars":18,"textLines":1,"bbox":[48,444,240,100]}
+{"kind":"textbox","id":"sh/gvalg3eh","slide":21,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[348,276,90,50]}
+{"kind":"textbox","id":"sh/vuhk7yxw","slide":21,"text":"遇风","textPreview":"遇风","textChars":2,"textLines":1,"bbox":[348,342,240,50]}
+{"kind":"shape","id":"sh/ut83etwb","slide":21,"bbox":[348,410,238,0]}
+{"kind":"textbox","id":"sh/tsz25ofq","slide":21,"text":"天气改变，个人动作必须连接他人。","textPreview":"天气改变，个人动作必须连接他人。","textChars":16,"textLines":1,"bbox":[348,444,240,100]}
+{"kind":"textbox","id":"sh/87q1cje5","slide":21,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[648,276,90,50]}
+{"kind":"textbox","id":"sh/76hk3ex0","slide":21,"text":"同向","textPreview":"同向","textChars":2,"textLines":1,"bbox":[648,342,240,50]}
+{"kind":"shape","id":"sh/658ja9wf","slide":21,"bbox":[648,410,238,0]}
+{"kind":"textbox","id":"sh/do32hsfa","slide":21,"text":"帆、绳索、判断与信任形成一个系统。","textPreview":"帆、绳索、判断与信任形成一个系统。","textChars":17,"textLines":1,"bbox":[648,444,240,100]}
+{"kind":"textbox","id":"sh/c3ulonep","slide":21,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[948,276,90,50]}
+{"kind":"textbox","id":"sh/wj2d0bqx","slide":21,"text":"向远","textPreview":"向远","textChars":2,"textLines":1,"bbox":[948,342,240,50]}
+{"kind":"shape","id":"sh/xkve9g7i","slide":21,"bbox":[948,410,238,0]}
+{"kind":"textbox","id":"sh/ahkvyl8r","slide":21,"text":"全体Crew完成关键调帆，共同驶向远方。","textPreview":"全体Crew完成关键调帆，共同驶向远方。","textChars":20,"textLines":1,"bbox":[948,444,240,100]}
+{"kind":"textbox","id":"sh/bitw7qpc","slide":21,"text":"所有关键动作，都必须依赖上一个人的动作，并触发下一个人的回应。","textPreview":"所有关键动作，都必须依赖上一个人的动作，并触发下一个人的回应。","textChars":31,"textLines":1,"bbox":[48,602,1140,36]}
+{"kind":"notes","id":"nt/hnps91","slide":21,"text":"[Sources]\n- Creative narrative developed from HH Shooting Brief, pp.19–20 and user-approved Crew direction."}
+{"kind":"slide","id":"sl/3ffpby","slide":22,"title":"SHOOT THE RELATIONSHIP","textShapes":17}
+{"kind":"textbox","id":"sh/8b25orel","slide":22,"text":"SHOOT THE RELATIONSHIP","textPreview":"SHOOT THE RELATIONSHIP","textChars":22,"textLines":1,"bbox":[48,46,920,48]}
+{"kind":"shape","id":"sh/7qtofmx0","slide":22,"bbox":[48,108,98,0]}
+{"kind":"textbox","id":"sh/6pknm1wf","slide":22,"text":"镜头不追逐英雄，镜头捕捉关系","textPreview":"镜头不追逐英雄，镜头捕捉关系","textChars":14,"textLines":1,"bbox":[48,128,1040,62]}
+{"kind":"textbox","id":"sh/hgv6lgf2","slide":22,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/gfm5cbeh","slide":22,"text":"HELLY HANSEN 27SS","textPreview":"HELLY HANSEN 27SS","textChars":17,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/vedoj6xw","slide":22,"text":"22","textPreview":"22","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/udknq1wb","slide":22,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[48,270,60,34]}
+{"kind":"textbox","id":"sh/5kv6pgfy","slide":22,"text":"不以单人Hero Shot开场","textPreview":"不以单人Hero Shot开场","textChars":15,"textLines":1,"bbox":[128,268,390,40]}
+{"kind":"textbox","id":"sh/4jmpgbed","slide":22,"text":"先让观众看见整艘船如何运转。","textPreview":"先让观众看见整艘船如何运转。","textChars":14,"textLines":1,"bbox":[580,270,610,48]}
+{"kind":"shape","id":"sh/i98jq547","slide":22,"bbox":[128,324,1062,0]}
+{"kind":"textbox","id":"sh/juh0zals","slide":22,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[48,354,60,34]}
+{"kind":"textbox","id":"sh/kva1sfmd","slide":22,"text":"动作必须彼此连接","textPreview":"动作必须彼此连接","textChars":8,"textLines":1,"bbox":[128,352,390,40]}
+{"kind":"textbox","id":"sh/5wj2103y","slide":22,"text":"手、眼神、绳索、帆面形成连续反应。","textPreview":"手、眼神、绳索、帆面形成连续反应。","textChars":17,"textLines":1,"bbox":[580,354,610,48]}
+{"kind":"shape","id":"sh/6xsju54j","slide":22,"bbox":[128,408,1062,0]}
+{"kind":"textbox","id":"sh/7y1k3al4","slide":22,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[48,438,60,34]}
+{"kind":"textbox","id":"sh/sza1wfmp","slide":22,"text":"高潮属于整个Crew","textPreview":"高潮属于整个Crew","textChars":10,"textLines":1,"bbox":[128,436,390,40]}
+{"kind":"textbox","id":"sh/t0j25k3u","slide":22,"text":"关键调帆或转向由所有人共同完成。","textPreview":"关键调帆或转向由所有人共同完成。","textChars":16,"textLines":1,"bbox":[580,438,610,48]}
+{"kind":"shape","id":"sh/m1ojil4z","slide":22,"bbox":[128,492,1062,0]}
+{"kind":"textbox","id":"sh/n2x0rqlk","slide":22,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[48,522,60,34]}
+{"kind":"textbox","id":"sh/b6dgzm1c","slide":22,"text":"自然始终在场","textPreview":"自然始终在场","textChars":6,"textLines":1,"bbox":[128,520,390,40]}
+{"kind":"textbox","id":"sh/q54fqhkr","slide":22,"text":"风、浪、光线与天气推动情节，而非装饰画面。","textPreview":"风、浪、光线与天气推动情节，而非装饰画面。","textChars":21,"textLines":1,"bbox":[580,522,610,48]}
+{"kind":"shape","id":"sh/d8vy1wji","slide":22,"bbox":[128,576,1062,0]}
+{"kind":"notes","id":"nt/3ffpby","slide":22,"text":"[Sources]\n- User-approved director/camera principles for de-emphasizing individual heroism."}
+{"kind":"slide","id":"sl/ipedf2","slide":23,"title":"THREE SAILING EXPRESSIONS","textShapes":11}
+{"kind":"textbox","id":"sh/etsz2pof","slide":23,"text":"THREE SAILING EXPRESSIONS","textPreview":"THREE SAILING EXPRESSIONS","textChars":25,"textLines":1,"bbox":[48,46,920,48]}
+{"kind":"shape","id":"sh/1wjix476","slide":23,"bbox":[48,108,98,0]}
+{"kind":"textbox","id":"sh/0vah4z6l","slide":23,"text":"三套航海Look，完成从历史到当代生活","textPreview":"三套航海Look，完成从历史到当代生活","textChars":19,"textLines":1,"bbox":[48,128,1040,62]}
+{"kind":"textbox","id":"sh/nyl0zepw","slide":23,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/mxcz69or","slide":23,"text":"HELLY HANSEN 27SS","textPreview":"HELLY HANSEN 27SS","textChars":17,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/903i1472","slide":23,"text":"23","textPreview":"23","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/32hgnaps","slide":23,"text":"01 · SAILING HERITAGE","textPreview":"01 · SAILING HERITAGE","textChars":21,"textLines":1,"bbox":[48,512,360,32]}
+{"kind":"textbox","id":"sh/218zu5o7","slide":23,"text":"艺术家联名 × Crew精神","textPreview":"艺术家联名 × Crew精神","textChars":14,"textLines":1,"bbox":[48,556,360,54]}
+{"kind":"textbox","id":"sh/5sf6lgr2","slide":23,"text":"04 · H2ALIVE","textPreview":"04 · H2ALIVE","textChars":12,"textLines":1,"bbox":[444,512,360,32]}
+{"kind":"textbox","id":"sh/ipo7a18r","slide":23,"text":"150周年限定 × 航海潮流","textPreview":"150周年限定 × 航海潮流","textChars":14,"textLines":1,"bbox":[444,556,360,54]}
+{"kind":"textbox","id":"sh/sfqpgvqt","slide":23,"text":"07 · HH STØTTE","textPreview":"07 · HH STØTTE","textChars":14,"textLines":1,"bbox":[840,512,360,32]}
+{"kind":"textbox","id":"sh/tgz6p0re","slide":23,"text":"功能设计 × 航海生活方式","textPreview":"功能设计 × 航海生活方式","textChars":13,"textLines":1,"bbox":[840,556,360,54]}
+{"kind":"image","id":"im/14v6hcne","slide":23,"name":"","alt":"Sailing look 1 reference","bbox":[48,252,360,238]}
+{"kind":"image","id":"im/b29cbyls","slide":23,"name":"","alt":"Sailing look 2 reference","bbox":[444,252,360,238]}
+{"kind":"image","id":"im/w3it43md","slide":23,"name":"","alt":"Sailing look 3 reference","bbox":[840,252,360,238]}
+{"kind":"notes","id":"nt/ipedf2","slide":23,"text":"[Sources]\n- User-provided HH Shooting Brief, pp.22–24 (Sailing Heritage, H2Alive, HH Støtte)."}
+{"kind":"slide","id":"sl/jnsxx2","slide":24,"title":"HH  ×  VCHINA","textShapes":8}
+{"kind":"shape","id":"sh/up8bapwn","slide":24,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/vqhc3uds","slide":24,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/8n6t8feh","slide":24,"text":"FILM 01 · END FRAME","textPreview":"FILM 01 · END FRAME","textChars":19,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/9ozu1kv2","slide":24,"text":"24","textPreview":"24","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/mlob65wb","slide":24,"text":"WITH THE SEA, AS ONE CREW","textPreview":"WITH THE SEA, AS ONE CREW","textChars":25,"textLines":1,"bbox":[48,52,920,50]}
+{"kind":"textbox","id":"sh/7mxczadw","slide":24,"text":"与海同舟","textPreview":"与海同舟","textChars":4,"textLines":1,"bbox":[48,196,560,86]}
+{"kind":"textbox","id":"sh/sjadkjel","slide":24,"text":"向更远","textPreview":"向更远","textChars":3,"textLines":1,"bbox":[48,296,560,70]}
+{"kind":"textbox","id":"sh/dkjud4v6","slide":24,"text":"自在天地间","textPreview":"自在天地间","textChars":5,"textLines":1,"bbox":[48,558,420,52]}
+{"kind":"textbox","id":"sh/5wfetk3a","slide":24,"text":"HELLY HANSEN 150","textPreview":"HELLY HANSEN 150","textChars":16,"textLines":1,"bbox":[48,618,420,28]}
+{"kind":"image","id":"im/gv2d4nml","slide":24,"name":"","alt":"Atmospheric outdoor campaign visual","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/jnsxx2","slide":24,"text":"[Sources]\n- User-approved Sailing endline.\n- OpenAI ImageGen concept visual; source file in project assets/generated/sailing-nightglow.png."}
+{"kind":"slide","id":"sl/hug129","slide":25,"title":"HH  ×  VCHINA","textShapes":7}
+{"kind":"shape","id":"sh/zypsbq5s","slide":25,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/exgb2l47","slide":25,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/9orah0nu","slide":25,"text":"FILM 02 · DEARACER","textPreview":"FILM 02 · DEARACER","textChars":18,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/onit8vmp","slide":25,"text":"25","textPreview":"25","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/nm9sfq54","slide":25,"text":"IN STEP WITH THE WILD","textPreview":"IN STEP WITH THE WILD","textChars":21,"textLines":1,"bbox":[48,54,1040,84]}
+{"kind":"textbox","id":"sh/m10b6l4j","slide":25,"text":"与野同步","textPreview":"与野同步","textChars":4,"textLines":1,"bbox":[48,176,560,82]}
+{"kind":"shape","id":"sh/xsbalkn6","slide":25,"bbox":[48,286,120,0]}
+{"kind":"textbox","id":"sh/writcfml","slide":25,"text":"不是让山野适应速度，\n而是找到与山野同步的那一步。","textPreview":"不是让山野适应速度， | 而是找到与山野同步的那一步。","textChars":25,"textLines":2,"bbox":[48,336,770,110]}
+{"kind":"textbox","id":"sh/ihg7qlwj","slide":25,"text":"FILM 02 · 赴新域","textPreview":"FILM 02 · 赴新域","textChars":13,"textLines":1,"bbox":[48,606,420,28]}
+{"kind":"image","id":"im/dwjidg3u","slide":25,"name":"","alt":"Atmospheric outdoor campaign visual","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/hug129","slide":25,"text":"[Sources]\n- User-provided HH Shooting Brief, pp.26–33.\n- OpenAI ImageGen concept visual; source file in project assets/generated/trail-hero.png."}
+{"kind":"slide","id":"sl/y5vhap","slide":26,"title":"THE WILD SETS THE QUESTION","textShapes":8}
+{"kind":"textbox","id":"sh/dozid0va","slide":26,"text":"THE WILD SETS THE QUESTION","textPreview":"THE WILD SETS THE QUESTION","textChars":26,"textLines":1,"bbox":[48,46,920,48]}
+{"kind":"shape","id":"sh/ql8jilcj","slide":26,"bbox":[48,108,98,0]}
+{"kind":"textbox","id":"sh/bmh0bqd4","slide":26,"text":"山野不断提问，脚步持续回应","textPreview":"山野不断提问，脚步持续回应","textChars":13,"textLines":1,"bbox":[48,128,1040,62]}
+{"kind":"textbox","id":"sh/0ra1ovul","slide":26,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/lsjih0v6","slide":26,"text":"HELLY HANSEN 27SS","textPreview":"HELLY HANSEN 27SS","textChars":17,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/yp8jm5cv","slide":26,"text":"26","textPreview":"26","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/zqh0fqdg","slide":26,"text":"坡度、岩石、泥土、溪流、风与身体状态，\n每一刻都在重新定义下一步。","textPreview":"坡度、岩石、泥土、溪流、风与身体状态， | 每一刻都在重新定义下一步。","textChars":33,"textLines":2,"bbox":[48,286,650,106]}
+{"kind":"shape","id":"sh/gv6hcbuh","slide":26,"bbox":[48,426,110,0]}
+{"kind":"textbox","id":"sh/hwfi5gv2","slide":26,"text":"真正的越野，不是把自然变成标准赛道；\n而是在不断变化的地形中，保持感知与行动。","textPreview":"真正的越野，不是把自然变成标准赛道； | 而是在不断变化的地形中，保持感知与行动。","textChars":39,"textLines":2,"bbox":[48,472,720,100]}
+{"kind":"textbox","id":"sh/dwja5g7m","slide":26,"text":"王一博不是唯一的Racer\n他代表每一个正在寻找\n自己节奏的人。","textPreview":"王一博不是唯一的Racer | 他代表每一个正在寻找 | 自己节奏的人。","textChars":32,"textLines":3,"bbox":[790,310,400,166]}
+{"kind":"notes","id":"nt/y5vhap","slide":26,"text":"[Sources]\n- User-approved Dearacer worldview: 与野同步.\n- User-provided HH Shooting Brief, pp.26–29."}
+{"kind":"slide","id":"sl/a5c8mz","slide":27,"title":"HH  ×  VCHINA","textShapes":11}
+{"kind":"shape","id":"sh/3at4vu9s","slide":27,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/29kn2p87","slide":27,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/18bmtkr2","slide":27,"text":"FILM 02 · IDEA","textPreview":"FILM 02 · IDEA","textChars":14,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/gn250fqh","slide":27,"text":"27","textPreview":"27","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/fmt4ru9w","slide":27,"text":"SYNC IS NOT SLOWING DOWN","textPreview":"SYNC IS NOT SLOWING DOWN","textChars":24,"textLines":1,"bbox":[48,46,900,48]}
+{"kind":"textbox","id":"sh/el03ypsb","slide":27,"text":"同步，不是降低速度","textPreview":"同步，不是降低速度","textChars":9,"textLines":1,"bbox":[48,146,730,64]}
+{"kind":"textbox","id":"sh/l4v65or6","slide":27,"text":"它意味着跑者不断感知环境，\n在每一次落脚之间作出新的判断。","textPreview":"它意味着跑者不断感知环境， | 在每一次落脚之间作出新的判断。","textChars":29,"textLines":2,"bbox":[48,254,650,94]}
+{"kind":"textbox","id":"sh/03m5cjql","slide":27,"text":"看见地势","textPreview":"看见地势","textChars":4,"textLines":1,"bbox":[48,500,250,54]}
+{"kind":"textbox","id":"sh/ad8ry90j","slide":27,"text":"听见呼吸","textPreview":"听见呼吸","textChars":4,"textLines":1,"bbox":[338,500,250,54]}
+{"kind":"textbox","id":"sh/behsre14","slide":27,"text":"调整重心","textPreview":"调整重心","textChars":4,"textLines":1,"bbox":[628,500,250,54]}
+{"kind":"textbox","id":"sh/wfqt0jip","slide":27,"text":"回应地面","textPreview":"回应地面","textChars":4,"textLines":1,"bbox":[918,500,250,54]}
+{"kind":"textbox","id":"sh/xgzatoju","slide":27,"text":"自在，发生在身体与山野找到共同节奏的那一刻。","textPreview":"自在，发生在身体与山野找到共同节奏的那一刻。","textChars":22,"textLines":1,"bbox":[180,604,920,38]}
+{"kind":"image","id":"im/183epor2","slide":27,"name":"","alt":"Atmospheric outdoor campaign visual","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/a5c8mz","slide":27,"text":"[Sources]\n- User-approved Dearacer concept explanation.\n- OpenAI ImageGen concept visual; source file in project assets/generated/trail-hero.png."}
+{"kind":"slide","id":"sl/72vylr","slide":28,"title":"DEAR RACER IS AN OPEN CALL","textShapes":8}
+{"kind":"textbox","id":"sh/8n61ofal","slide":28,"text":"DEAR RACER IS AN OPEN CALL","textPreview":"DEAR RACER IS AN OPEN CALL","textChars":26,"textLines":1,"bbox":[48,46,920,48]}
+{"kind":"shape","id":"sh/7mx0va9g","slide":28,"bbox":[48,108,98,0]}
+{"kind":"textbox","id":"sh/6l4jm5sv","slide":28,"text":"Dear Racer，不必被拍成一封具体的信","textPreview":"Dear Racer，不必被拍成一封具体的信","textChars":22,"textLines":1,"bbox":[48,128,1040,62]}
+{"kind":"textbox","id":"sh/lkvit0ra","slide":28,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/kjm1kvap","slide":28,"text":"HELLY HANSEN 27SS","textPreview":"HELLY HANSEN 27SS","textChars":17,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/jid0rq94","slide":28,"text":"28","textPreview":"28","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/yh4ji5sj","slide":28,"text":"它不是一种格式，\n而是HH对所有跑者的一次公开称呼。","textPreview":"它不是一种格式， | 而是HH对所有跑者的一次公开称呼。","textChars":26,"textLines":2,"bbox":[48,286,620,122]}
+{"kind":"shape","id":"sh/5gz254re","slide":28,"bbox":[48,446,110,0]}
+{"kind":"textbox","id":"sh/4fq1wzat","slide":28,"text":"不限定手写、信封或逐字旁白。\n可以是一段由呼吸、脚步、碎石、水流与风共同组成的开放宣言。","textPreview":"不限定手写、信封或逐字旁白。 | 可以是一段由呼吸、脚步、碎石、水流与风共同组成的开放宣言。","textChars":44,"textLines":2,"bbox":[48,492,710,100]}
+{"kind":"textbox","id":"sh/atcn69kn","slide":28,"text":"DEAR RACER,\nFIND YOUR STEP\nIN THE WILD.","textPreview":"DEAR RACER, | FIND YOUR STEP | IN THE WILD.","textChars":39,"textLines":3,"bbox":[820,294,370,180]}
+{"kind":"notes","id":"nt/72vylr","slide":28,"text":"[Sources]\n- User-provided HH Shooting Brief, p.26: ‘一封写给每一位Racer的信’仅作为创意启发，不限定表现形式。\n- User-approved reinterpretation of Dear Racer as an open call."}
+{"kind":"slide","id":"sl/gerkil","slide":29,"title":"FOUR TERRAIN RESPONSES","textShapes":18}
+{"kind":"textbox","id":"sh/c7u5k7a5","slide":29,"text":"FOUR TERRAIN RESPONSES","textPreview":"FOUR TERRAIN RESPONSES","textChars":22,"textLines":1,"bbox":[48,46,920,48]}
+{"kind":"shape","id":"sh/b6lob2tk","slide":29,"bbox":[48,108,98,0]}
+{"kind":"textbox","id":"sh/a5cnixsz","slide":29,"text":"不是穿过山野，而是与山野形成同一个运动系统","textPreview":"不是穿过山野，而是与山野形成同一个运动系统","textChars":21,"textLines":1,"bbox":[48,128,1040,62]}
+{"kind":"textbox","id":"sh/pk369sbe","slide":29,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/oju5gnat","slide":29,"text":"HELLY HANSEN 27SS","textPreview":"HELLY HANSEN 27SS","textChars":17,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/nil47it8","slide":29,"text":"29","textPreview":"29","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/2hcnexc3","slide":29,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[48,278,90,50]}
+{"kind":"textbox","id":"sh/9g76lwby","slide":29,"text":"自然先动","textPreview":"自然先动","textChars":4,"textLines":1,"bbox":[48,342,240,50]}
+{"kind":"shape","id":"sh/8fy5srad","slide":29,"bbox":[48,410,238,0]}
+{"kind":"textbox","id":"sh/ax4rih03","slide":29,"text":"风过草木，水绕石块，地形先建立节奏。","textPreview":"风过草木，水绕石块，地形先建立节奏。","textChars":18,"textLines":1,"bbox":[48,444,240,100]}
+{"kind":"textbox","id":"sh/bydsrmho","slide":29,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[348,278,90,50]}
+{"kind":"textbox","id":"sh/wzm9kri9","slide":29,"text":"身体进入","textPreview":"身体进入","textChars":4,"textLines":1,"bbox":[348,342,240,50]}
+{"kind":"shape","id":"sh/x0fatczu","slide":29,"bbox":[348,410,238,0]}
+{"kind":"textbox","id":"sh/m94rex07","slide":29,"text":"呼吸、步幅与重心开始回应环境。","textPreview":"呼吸、步幅与重心开始回应环境。","textChars":15,"textLines":1,"bbox":[348,444,240,100]}
+{"kind":"textbox","id":"sh/nud8n2hs","slide":29,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[648,278,90,50]}
+{"kind":"textbox","id":"sh/ovm9g7id","slide":29,"text":"装备连接","textPreview":"装备连接","textChars":4,"textLines":1,"bbox":[648,342,240,50]}
+{"kind":"shape","id":"sh/9wvqpczi","slide":29,"bbox":[648,410,238,0]}
+{"kind":"textbox","id":"sh/65orq10b","slide":29,"text":"轻、弹、稳、抓把变化转化为下一步。","textPreview":"轻、弹、稳、抓把变化转化为下一步。","textChars":17,"textLines":1,"bbox":[648,444,240,100]}
+{"kind":"textbox","id":"sh/7qxsz6hw","slide":29,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[948,278,90,50]}
+{"kind":"textbox","id":"sh/3a9oryx8","slide":29,"text":"同步发生","textPreview":"同步发生","textChars":4,"textLines":1,"bbox":[948,342,240,50]}
+{"kind":"shape","id":"sh/290nitgn","slide":29,"bbox":[948,410,238,0]}
+{"kind":"textbox","id":"sh/pcr6t8fe","slide":29,"text":"跑者不再穿越景观，而与山野共同运动。","textPreview":"跑者不再穿越景观，而与山野共同运动。","textChars":18,"textLines":1,"bbox":[948,444,240,100]}
+{"kind":"textbox","id":"sh/4bipk3yt","slide":29,"text":"每一次地形变化，都是一次产品功能被真实验证的机会。","textPreview":"每一次地形变化，都是一次产品功能被真实验证的机会。","textChars":25,"textLines":1,"bbox":[48,604,1140,36]}
+{"kind":"notes","id":"nt/gerkil","slide":29,"text":"[Sources]\n- Creative narrative developed from HH Shooting Brief and user-approved 与野同步 direction."}
+{"kind":"slide","id":"sl/qi693f","slide":30,"title":"HH  ×  VCHINA","textShapes":13}
+{"kind":"shape","id":"sh/z65cratc","slide":30,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/e5wby5cr","slide":30,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/d4nup0b6","slide":30,"text":"FILM 02 · PRODUCT","textPreview":"FILM 02 · PRODUCT","textChars":17,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/cjutwvul","slide":30,"text":"30","textPreview":"30","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/rilcnqt0","slide":30,"text":"THE SHOE BECOMES THE CONNECTION","textPreview":"THE SHOE BECOMES THE CONNECTION","textChars":31,"textLines":1,"bbox":[48,44,980,48]}
+{"kind":"textbox","id":"sh/qhcbulcf","slide":30,"text":"Dearacer，让脚步与地面建立真实连接","textPreview":"Dearacer，让脚步与地面建立真实连接","textChars":21,"textLines":1,"bbox":[48,126,920,58]}
+{"kind":"textbox","id":"sh/pg3ulgba","slide":30,"text":"轻","textPreview":"轻","textChars":1,"textLines":1,"bbox":[52,478,100,70]}
+{"kind":"textbox","id":"sh/4futsbup","slide":30,"text":"保持节奏","textPreview":"保持节奏","textChars":4,"textLines":1,"bbox":[152,500,160,40]}
+{"kind":"textbox","id":"sh/u1wra1gz","slide":30,"text":"弹","textPreview":"弹","textChars":1,"textLines":1,"bbox":[344,478,100,70]}
+{"kind":"textbox","id":"sh/v25s36hk","slide":30,"text":"转化力量","textPreview":"转化力量","textChars":4,"textLines":1,"bbox":[444,500,160,40]}
+{"kind":"textbox","id":"sh/g3e9cby5","slide":30,"text":"稳","textPreview":"稳","textChars":1,"textLines":1,"bbox":[636,478,100,70]}
+{"kind":"textbox","id":"sh/h47a5gza","slide":30,"text":"应对变化","textPreview":"应对变化","textChars":4,"textLines":1,"bbox":[736,500,160,40]}
+{"kind":"textbox","id":"sh/mxwr6hgn","slide":30,"text":"抓","textPreview":"抓","textChars":1,"textLines":1,"bbox":[928,478,100,70]}
+{"kind":"textbox","id":"sh/7y58zmh8","slide":30,"text":"连接地面","textPreview":"连接地面","textChars":4,"textLines":1,"bbox":[1028,500,160,40]}
+{"kind":"image","id":"im/h47u98f2","slide":30,"name":"","alt":"Atmospheric outdoor campaign visual","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/qi693f","slide":30,"text":"[Sources]\n- User-provided HH Shooting Brief, pp.27–29 (Dearacer product communication).\n- OpenAI ImageGen concept visual; source file in project assets/generated/trail-shoe-grip.png."}
+{"kind":"slide","id":"sl/p4hjfw","slide":31,"title":"HH  ×  VCHINA","textShapes":13}
+{"kind":"shape","id":"sh/ml4rylsf","slide":31,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/nmdsrq90","slide":31,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/0jm9wva9","slide":31,"text":"FILM 02 · CAMERA","textPreview":"FILM 02 · CAMERA","textChars":16,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/lkvqpgru","slide":31,"text":"31","textPreview":"31","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/yh4ruls3","slide":31,"text":"SHOOT THE RESPONSE","textPreview":"SHOOT THE RESPONSE","textChars":18,"textLines":1,"bbox":[48,44,840,48]}
+{"kind":"textbox","id":"sh/zid8nq9o","slide":31,"text":"镜头拍的不是速度，而是每一步如何发生","textPreview":"镜头拍的不是速度，而是每一步如何发生","textChars":18,"textLines":1,"bbox":[48,132,930,62]}
+{"kind":"textbox","id":"sh/cf29sbad","slide":31,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[50,276,54,30]}
+{"kind":"textbox","id":"sh/dgvqlgri","slide":31,"text":"地形先出现，人物后进入","textPreview":"地形先出现，人物后进入","textChars":11,"textLines":1,"bbox":[124,272,800,40]}
+{"kind":"textbox","id":"sh/tgzipkje","slide":31,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[50,348,54,30]}
+{"kind":"textbox","id":"sh/8fq1wf2t","slide":31,"text":"脚步、呼吸、重心形成节奏","textPreview":"脚步、呼吸、重心形成节奏","textChars":12,"textLines":1,"bbox":[124,344,800,40]}
+{"kind":"textbox","id":"sh/7eh0na18","slide":31,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[50,420,54,30]}
+{"kind":"textbox","id":"sh/6doju5kn","slide":31,"text":"鞋底与岩石、泥土、水面真实接触","textPreview":"鞋底与岩石、泥土、水面真实接触","textChars":15,"textLines":1,"bbox":[124,416,800,40]}
+{"kind":"textbox","id":"sh/lcfil0ji","slide":31,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[50,492,54,30]}
+{"kind":"textbox","id":"sh/kb61sf2x","slide":31,"text":"王一博的专业状态来自应对，而非摆拍","textPreview":"王一博的专业状态来自应对，而非摆拍","textChars":17,"textLines":1,"bbox":[124,488,800,40]}
+{"kind":"image","id":"im/sba58reh","slide":31,"name":"","alt":"Atmospheric outdoor campaign visual","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/p4hjfw","slide":31,"text":"[Sources]\n- User-approved Trail Running camera direction.\n- OpenAI ImageGen concept visual; source file in project assets/generated/trail-afterglow.png."}
+{"kind":"slide","id":"sl/o969ly","slide":32,"title":"ONE UNIVERSE · TWO CHAPTERS","textShapes":14}
+{"kind":"textbox","id":"sh/wzqhszah","slide":32,"text":"ONE UNIVERSE · TWO CHAPTERS","textPreview":"ONE UNIVERSE · TWO CHAPTERS","textChars":27,"textLines":1,"bbox":[48,46,920,48]}
+{"kind":"shape","id":"sh/vyhgzutw","slide":32,"bbox":[48,108,98,0]}
+{"kind":"textbox","id":"sh/ax8zqpsb","slide":32,"text":"两支TVC，是“自在天地间”的两种行动方式","textPreview":"两支TVC，是“自在天地间”的两种行动方式","textChars":21,"textLines":1,"bbox":[48,128,1040,62]}
+{"kind":"textbox","id":"sh/5oji54by","slide":32,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/knahwzad","slide":32,"text":"HELLY HANSEN 27SS","textPreview":"HELLY HANSEN 27SS","textChars":17,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/jm103uts","slide":32,"text":"32","textPreview":"32","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/ilszu9s7","slide":32,"text":"与海同舟","textPreview":"与海同舟","textChars":4,"textLines":1,"bbox":[48,272,500,64]}
+{"kind":"textbox","id":"sh/ts3i9obu","slide":32,"text":"SAIL AS ONE","textPreview":"SAIL AS ONE","textChars":11,"textLines":1,"bbox":[48,342,420,42]}
+{"kind":"textbox","id":"sh/srah0jap","slide":32,"text":"共同判断 · 彼此信任 · 向更远","textPreview":"共同判断 · 彼此信任 · 向更远","textChars":17,"textLines":1,"bbox":[48,418,500,48]}
+{"kind":"textbox","id":"sh/29k7alkn","slide":32,"text":"自在源于共同承担","textPreview":"自在源于共同承担","textChars":8,"textLines":1,"bbox":[48,502,500,54]}
+{"kind":"shape","id":"sh/nato3q18","slide":32,"bbox":[620,272,0,284]}
+{"kind":"textbox","id":"sh/ob2pcv2t","slide":32,"text":"与野同步","textPreview":"与野同步","textChars":4,"textLines":1,"bbox":[706,272,500,64]}
+{"kind":"textbox","id":"sh/pcb65gje","slide":32,"text":"IN STEP WITH THE WILD","textPreview":"IN STEP WITH THE WILD","textChars":21,"textLines":1,"bbox":[706,342,500,42]}
+{"kind":"textbox","id":"sh/axk7elkz","slide":32,"text":"感知地形 · 回应变化 · 赴新域","textPreview":"感知地形 · 回应变化 · 赴新域","textChars":17,"textLines":1,"bbox":[706,418,500,48]}
+{"kind":"textbox","id":"sh/bydo7q1k","slide":32,"text":"自在源于彼此同步","textPreview":"自在源于彼此同步","textChars":8,"textLines":1,"bbox":[706,502,500,54]}
+{"kind":"textbox","id":"sh/czmpgv25","slide":32,"text":"无论向远，还是赴新域，真正的自由都发生在人与自然建立关系之后。","textPreview":"无论向远，还是赴新域，真正的自由都发生在人与自然建立关系之后。","textChars":31,"textLines":1,"bbox":[110,612,1060,36]}
+{"kind":"notes","id":"nt/o969ly","slide":32,"text":"[Sources]\n- User-approved final campaign architecture."}
+{"kind":"slide","id":"sl/59pi42","slide":33,"title":"HH  ×  VCHINA","textShapes":8}
+{"kind":"shape","id":"sh/wnyxs3yh","slide":33,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/ho7el8f2","slide":33,"text":"HH  ×  VCHINA","textPreview":"HH  ×  VCHINA","textChars":13,"textLines":1,"bbox":[1030,25,190,30]}
+{"kind":"textbox","id":"sh/mxwvmtgf","slide":33,"text":"HELLY HANSEN 2027 SS","textPreview":"HELLY HANSEN 2027 SS","textChars":20,"textLines":1,"bbox":[48,676,360,18]}
+{"kind":"textbox","id":"sh/7y5wfyxk","slide":33,"text":"33","textPreview":"33","textChars":2,"textLines":1,"bbox":[1168,676,52,18]}
+{"kind":"textbox","id":"sh/8zexojy5","slide":33,"text":"LIVE FREE IN THE ELEMENTS","textPreview":"LIVE FREE IN THE ELEMENTS","textChars":25,"textLines":1,"bbox":[48,58,1080,70]}
+{"kind":"textbox","id":"sh/90nehofq","slide":33,"text":"自在天地间","textPreview":"自在天地间","textChars":5,"textLines":1,"bbox":[48,196,620,92]}
+{"kind":"shape","id":"sh/6tgfydgj","slide":33,"bbox":[48,326,132,0]}
+{"kind":"textbox","id":"sh/ru9wrix4","slide":33,"text":"向更远 · 赴新域","textPreview":"向更远 · 赴新域","textChars":9,"textLines":1,"bbox":[48,380,720,70]}
+{"kind":"textbox","id":"sh/bel8ripc","slide":33,"text":"专业，让自在发生。","textPreview":"专业，让自在发生。","textChars":9,"textLines":1,"bbox":[48,548,520,48]}
+{"kind":"textbox","id":"sh/adsrydor","slide":33,"text":"STAY & FEEL ALIVE","textPreview":"STAY & FEEL ALIVE","textChars":17,"textLines":1,"bbox":[48,608,560,38]}
+{"kind":"image","id":"im/e9kfah8n","slide":33,"name":"","alt":"Atmospheric outdoor campaign visual","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/59pi42","slide":33,"text":"[Sources]\n- OpenAI ImageGen concept visual; source file in project assets/generated/trail-afterglow.png.\n- User-approved final theme and annual communication line."}

@@ -1,0 +1,25 @@
+Project: HELLY HANSEN 2027SS 自在天地间 创意提案
+
+Primary source documents:
+- /Users/leiyi/Desktop/HH/HELLY HANSEN27SS代言人拍摄SHOOTING BRIEF (1).pdf
+- /Users/leiyi/Downloads/智能纪要：品牌150周年拍摄项目规划 2026年8月5日.pdf
+- /Users/leiyi/Downloads/Helly_Hansen_150周年拍摄项目策划方案.pdf
+- /Users/leiyi/Downloads/HH150周年《航海志》世界观深化创意文档_V2.docx
+- /Users/leiyi/Downloads/HH150周年《航海志》世界观深化创意文档.docx
+- /Users/leiyi/Downloads/HH150周年拍摄项目创意提案.docx
+
+User-provided visual direction:
+- 9ade166d5007291926bf1f9b6ef6a035.png
+- ff6b4a5a81eeaf08498084c5ed523b3d.png
+- 7bb33db253eaab6661f0c5745b6b4927.png
+
+Concept visuals:
+- OpenAI ImageGen assets under /Users/leiyi/Documents/ChatGPT/HH拍摄pitch/assets/generated/
+
+External factual references:
+- Norwegian Ministry of Climate and Environment, Friluftsliv White Paper 2015–2016.
+- Norwegian government cultural introduction explaining Fri / Luft / Liv.
+- 张岱年：《中国哲学中“天人合一”思想的剖析》，北京大学学报，1985年。
+- Stanford Encyclopedia of Philosophy: Daoism.
+
+All slides include a [Sources] block in speaker notes.
